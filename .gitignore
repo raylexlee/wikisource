@@ -1,0 +1,8 @@
+node_modules/
+audio/
+youtube/
+venv/
+key
+region
+*log
+packages-microsoft-prod.deb
