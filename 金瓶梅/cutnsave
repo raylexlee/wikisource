@@ -1,0 +1,6 @@
+#!/bin/bash
+for i in $(ls original/*txt)
+do
+FILE=$(echo $i | tr -d orginal/)
+sed -e '1,11 d' -e '/^　上一回/,$ d' -e '/^本明朝作品/,$ d' $i > $FILE
+done
