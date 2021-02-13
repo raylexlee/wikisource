@@ -8,8 +8,7 @@ fi
 if [[ -d audio ]]; then :; else  
   mkdir audio
 fi  
-vim author.txt
-echo $(node ../wiki2spx.js) > last_chapter.txt
+node ../wiki2spx.js
 cd audio
 cp $HOME/my-ms-translator/officialdom/temp/key .
 cp $HOME/my-ms-translator/officialdom/temp/region .
@@ -18,3 +17,5 @@ rm *wav
 rm *log
 rm key
 rm region
+cd ..
+$HOME/send2hanley
