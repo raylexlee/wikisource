@@ -1,0 +1,6 @@
+#!/bin/bash
+for i in $(ls original/東周列國志_讀*)
+do
+FILE=$(echo $i | tr -d orginal/)
+sed -e '1,18 d' -e '/^返回頁首/,$ d' -e '/^http/,$ d' $i > $FILE
+done

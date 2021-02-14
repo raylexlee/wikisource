@@ -1,0 +1,6 @@
+#!/bin/bash
+for i in $(ls original/*txt)
+do
+FILE=$(echo $i | tr -d orginal/)
+sed -e '1,18 d' -e '/^About/,$ d' $i > $FILE
+done
