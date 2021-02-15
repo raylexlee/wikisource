@@ -44,4 +44,6 @@ vim cutnsave
 echo Congratulations! You have completed the first major step of $BOOK
 echo You better review author.txt, last_chapter.txt, coverparameters.txt
 echo and these $BOOK_* which should not contain anything besides the content of chapters
-echo before issue ../init.sh to finish the entire project.
+echo before issue
+echo ./create_the_audio_book.sh $BOOK  
+echo to finish the entire project.
