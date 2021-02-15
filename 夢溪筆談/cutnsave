@@ -1,0 +1,6 @@
+#!/bin/bash
+for i in $(ls original/*txt)
+do
+FILE=$(echo $i | tr -d orginal/)
+sed -e '1,20 d' -e '/^本北宋作品/,$ d' -e '/^本作品在/,$ d' -e '/^　卷/,$ d' $i > $FILE
+done

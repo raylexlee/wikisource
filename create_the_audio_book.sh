@@ -1,5 +1,11 @@
 #!/bin/bash
-BOOK=$(pwd | tr -d [A-Za-z]/)
+BOOK=${1?"missing book name"}
+if [[ -d $BOOK ]]; then
+cd $BOOK
+else
+echo the folder $BOOK does not exist!
+exit 1
+fi
 if [[ -d spx ]]; then
   rm spx/*ssml
 else  
