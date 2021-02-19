@@ -1,0 +1,6 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" />　　正是：昨聽江湖施偽術，今看骨肉出新聞。未知此人是誰，且聽下回再記。<break time="100ms" />
+    </voice>
+</speak>
