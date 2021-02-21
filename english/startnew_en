@@ -1,0 +1,52 @@
+#!/bin/bash
+BOOK=${1?"missing book name"}
+if [[ -d $BOOK ]]; then :; else
+mkdir $BOOK;
+fi
+BOOK_URL="https://en.wikisource.org/wiki/$BOOK"
+cd $BOOK
+curl -o book.html $BOOK_URL
+grep -e "href="\""/wiki/$BOOK/[^#"\""]*"\""" book.html | \
+  sed -e 'sb.*/wiki/\([^/]*/[^/"]*\)".*b\1b' \
+      -e 'sb.*/wiki/\([^/]*/[^/"]*/[^#"]*\)".*b\1b' | \
+  nl -n rz -w 3 -s " " > coverparameters.txt
+node ../getlast_chapter.js > last_chapter.txt 
+grep 'title="Author:' book.html | \
+  sed 's/.*title="Author:\([^"]*\).*/\1/' > author.txt
+if [[ -d 原稿 ]]; then 
+   rm 原稿/*txt
+else
+   mkdir 原稿
+fi
+echo OK! Now we have to run the following command
+echo     firefox -P 
+echo Choose profile wikisource then start firefox.
+echo In the Downloads section of the Preference menu.
+echo make sure that the Save to option is ticked.
+echo and amend the save to directory to be
+echo    $HOME/wikisource/english/$BOOK/原稿
+echo Close the firefox and we should be good to continue
+echo If you understand what you should do,
+echo    press RETURN key to run firefox -P .
+read
+firefox -P
+source ../../venv/bin/activate
+LAST_CHAPTER=$(grep [0-9] last_chapter.txt)
+CHAPTER=001
+while [ $CHAPTER -le $LAST_CHAPTER ]
+do
+TITLE=$(grep ^$CHAPTER coverparameters.txt | awk '{print $2;}' )
+../get_en_wikisource.py $TITLE
+CHAPTER=$(printf "%03d" `expr $CHAPTER + 1`)
+done
+deactivate
+cp ../en_cutnsave .
+vim en_cutnsave
+./en_cutnsave
+echo Congratulations! You have completed the first major step of $BOOK
+echo You better review author.txt, last_chapter.txt, coverparameters.txt
+echo and these $BOOK_* which should not contain anything besides the content of chapters
+echo before issue
+echo ./create_the_audio_book.sh $BOOK  
+echo to finish the entire project.
+   
