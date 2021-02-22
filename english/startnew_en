@@ -13,10 +13,10 @@ grep -e "href="\""/wiki/$BOOK/[^#"\""]*"\""" book.html | \
 node ../getlast_chapter.js > last_chapter.txt 
 grep 'title="Author:' book.html | \
   sed 's/.*title="Author:\([^"]*\).*/\1/' > author.txt
-if [[ -d 原稿 ]]; then 
-   rm 原稿/*txt
+if [[ -d original ]]; then 
+   rm original/*txt
 else
-   mkdir 原稿
+   mkdir original
 fi
 echo OK! Now we have to run the following command
 echo     firefox -P 
@@ -24,7 +24,7 @@ echo Choose profile wikisource then start firefox.
 echo In the Downloads section of the Preference menu.
 echo make sure that the Save to option is ticked.
 echo and amend the save to directory to be
-echo    $HOME/wikisource/english/$BOOK/原稿
+echo    $HOME/wikisource/english/$BOOK/original
 echo Close the firefox and we should be good to continue
 echo If you understand what you should do,
 echo    press RETURN key to run firefox -P .

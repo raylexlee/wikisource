@@ -24,7 +24,7 @@ for SSML in $(ls ../spx/$CHAPTER\_???.ssml)
     wait
   done
 sox $CHAPTER\_???.wav $CHAPTER.wav
-ffmpeg -i $CHAPTER.wav -codec:a libmp3lame -qscale:a 9 $CHAPTER.mp3    
+ffmpeg -i $CHAPTER.wav -codec:a libmp3lame -qscale:a 9 -af "atempo=0.9" $CHAPTER.mp3    
 mid3v2 -a "$AUTHOR" -t "$TITLE" -A "$BOOK" -g "101" -y $DATE -T "$CHAPTER/$LAST_CHAPTER" $CHAPTER.mp3
 ls -l
 mid3v2 $CHAPTER.mp3
