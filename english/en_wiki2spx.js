@@ -5,6 +5,7 @@
    Ouput the last chapter 3 digit number to standard output 
 */
 const fs = require('fs');
+//const voiceName = [ 'en-GB-RyanNeural', 'en-GB-MiaNeural', 'en-GB-LibbyNeural' ];
 const voiceName = [ 'en-GB-MiaNeural', 'en-GB-RyanNeural', 'en-GB-LibbyNeural' ];
 const voiceText = (voice, text) => `<voice name="${voice}">
         ${text}
