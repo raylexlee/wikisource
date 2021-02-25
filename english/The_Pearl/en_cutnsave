@@ -1,0 +1,6 @@
+#!/bin/bash
+for i in $(ls original/*txt)
+do
+FILE=$(echo $i | sed 's#original/\(.*\)#\1#')
+sed -e '1,10 d' -e '/^About this digital edition/,$ d' $i > $FILE
+done
