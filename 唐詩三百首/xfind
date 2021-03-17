@@ -1,0 +1,13 @@
+#!/bin/bash
+LAST_CHAPTER=$(grep [0-9] last_chapter.txt)
+CHAPTER=001
+while [ $CHAPTER -le $LAST_CHAPTER ]
+do
+TITLE=$(grep ^$CHAPTER coverparameters.txt | awk 'BEGIN { FS="," } {print $2;}' | sed 's/ /_/g')
+if [ ! -e "$TITLE.txt" ]
+then 
+echo $TITLE
+fi
+CHAPTER=$(printf "%03d" `expr $CHAPTER + 1`)
+done
+
