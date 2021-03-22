@@ -2,5 +2,5 @@
 for i in $(ls original/*txt)
 do
 FILE=$(echo $i | tr -d orginal/)
-sed -e '/^本作品收錄於/ d' -e '/^本唐朝作品/,$ d' -e '1,/^Exported/ d' -e '/^About/,$ d' $i > $FILE
+sed -e '/^本作品收錄於/ d' -e '/^本唐朝作品/,$ d' -e '1,/^Exported/ d' -e '/^About/,$ d' -e '/^註釋/,$ d' -e 's/\[[^[]*\]//g'  $i > $FILE
 done
