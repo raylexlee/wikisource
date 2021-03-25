@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李商隱 為有
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />為有雲屏無限嬌<break time="100ms" />鳳城寒盡怕春宵<break time="100ms" />無端嫁得金龜婿<break time="100ms" />辜負香衾事早朝<break time="100ms" />為有雲屏無限嬌<break time="100ms" />鳳城寒盡怕春宵<break time="100ms" />無端嫁得金龜婿<break time="100ms" />辜負香衾事早朝<break time="100ms" />
+    </voice>
+</speak>

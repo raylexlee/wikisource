@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        司空曙 賊平後送人北歸
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />世亂同南去，時清獨北還。<break time="100ms" />他鄉生白髮，舊國見青山。<break time="100ms" />曉月過殘壘，繁星宿故關。<break time="100ms" />寒禽與衰草，處處伴愁顏。<break time="100ms" />
+    </voice>
+</speak>

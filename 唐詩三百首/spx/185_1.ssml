@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        元稹 遣悲懷之三
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />閒坐悲君亦自悲，百年都是幾多時？<break time="100ms" />鄧攸無子尋知命，潘岳悼亡猶費詞。<break time="100ms" />同穴窅冥何所望？他生緣會更難期。<break time="100ms" />惟將終夜長開眼，報答平生未展眉。<break time="100ms" />
+    </voice>
+</speak>

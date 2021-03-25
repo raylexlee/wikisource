@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        王維 桃源行
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />漁舟逐水愛山春，兩岸桃花夾去津。<break time="100ms" />坐看紅樹不知遠，行盡青溪不見人。<break time="100ms" />山口潛行始隈隩，山開曠望旋平陸。<break time="100ms" />遙看一處攢雲樹，近入千家散花竹。<break time="100ms" />樵客初傳漢姓名，居人未改秦衣服。<break time="100ms" />居人共住武陵源，還從物外起田園。<break time="100ms" />月明松下房櫳靜，日出雲中雞犬喧。<break time="100ms" />驚聞俗客爭來集，競引還家問都邑。<break time="100ms" />平明閭巷埽花開，薄暮漁樵乘水入。<break time="100ms" />初因避地去人間，及至成仙遂不還。<break time="100ms" />峽裏誰知有人事，世中遙望空雲山。<break time="100ms" />不疑靈境難聞見，塵心未盡思鄉縣。<break time="100ms" />出洞無論隔山水，辭家終擬長游衍。<break time="100ms" />自謂經過舊不迷，安知峰壑今來變。<break time="100ms" />當時只記入山深，青溪幾曲到雲林。<break time="100ms" />春來遍是桃花水，不辨仙源何處尋。<break time="100ms" />
+    </voice>
+</speak>

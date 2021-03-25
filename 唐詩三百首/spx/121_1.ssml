@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李白 聽蜀僧濬彈琴
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />蜀僧抱綠綺，西下峨眉峰。<break time="100ms" />爲我一揮手，如聽萬壑松。<break time="100ms" />客心洗流水，餘響入霜鐘。<break time="100ms" />不覺碧山暮，秋雲暗幾重。<break time="100ms" />
+    </voice>
+</speak>

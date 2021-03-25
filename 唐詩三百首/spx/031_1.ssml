@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        張九齡 感遇
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />蘭葉春葳蕤，桂華秋皎潔。<break time="100ms" />欣欣此生意，自爾爲佳節。<break time="100ms" />誰知林棲者，聞風坐相悅。<break time="100ms" />草木有本心，何求美人折。<break time="100ms" />本作品在全世界都属于公有领域，因为作者逝世已经超过100年，并且于1926年1月1日之前出版。<break time="100ms" />
+    </voice>
+</speak>

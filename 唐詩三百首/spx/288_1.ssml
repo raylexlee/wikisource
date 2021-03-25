@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        杜牧 秋夕
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />銀燭秋光冷畫屏，<break time="100ms" />輕羅小扇撲流螢。<break time="100ms" />天街夜色涼如水，<break time="100ms" />臥看牽牛織女星。<break time="100ms" />
+    </voice>
+</speak>

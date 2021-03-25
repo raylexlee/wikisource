@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        柳宗元 登柳州城樓寄漳汀封連四州刺史
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />城上高樓接大荒，海天愁思正茫茫。<break time="100ms" />驚風亂颭芙蓉水，密雨斜侵薜荔牆。<break time="100ms" />嶺樹重遮千里目，江流曲似九迴腸。<break time="100ms" />共來百越文身地，猶自音書滯一鄉。<break time="100ms" />
+    </voice>
+</speak>

@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        孟浩然 臨洞庭贈張丞相
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />八月湖水平，涵虛混太清。<break time="100ms" />氣蒸雲夢澤，波撼岳陽城。<break time="100ms" />欲濟無舟楫，端居恥聖明。<break time="100ms" />坐觀垂釣者，徒有羨魚情。<break time="100ms" />
+    </voice>
+</speak>

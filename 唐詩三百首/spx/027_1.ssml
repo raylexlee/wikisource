@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        韋應物 東郊
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />吏舍跼終年，出郊曠清曙。<break time="100ms" />楊柳散和風，青山澹吾慮。<break time="100ms" />依叢適自憩，緣澗還復去。<break time="100ms" />微雨靄芳原，春鳩鳴何處？<break time="100ms" />樂幽心屢止，遵事跡猶遽。<break time="100ms" />終罷斯結廬，慕陶真可庶。<break time="100ms" />
+    </voice>
+</speak>

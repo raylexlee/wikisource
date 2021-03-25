@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        杜甫 詠懷古跡之四
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />蜀主窺吳幸三峽，崩年亦在永安宮。<break time="100ms" />翠華想像空山裏，玉殿虛無野寺中。<break time="100ms" />古廟杉松巢水鶴，歲時伏臘走村翁。<break time="100ms" />武侯祠屋常鄰近，一體君臣祭祀同。<break time="100ms" />
+    </voice>
+</speak>

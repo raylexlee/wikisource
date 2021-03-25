@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李白 行路難
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />金樽清酒斗十千，玉盤珍羞直萬錢。<break time="100ms" />停杯投箸不能食，拔劒四顧心茫然。<break time="100ms" />欲渡黃河冰塞川，將登太行雪暗天。<break time="100ms" />閑來垂釣碧溪上，忽復乘舟夢日邊。<break time="100ms" />行路難！行路難！多岐路，今安在？<break time="100ms" />長風破浪會有時，直挂雲帆濟滄海。<break time="100ms" />
+    </voice>
+</speak>

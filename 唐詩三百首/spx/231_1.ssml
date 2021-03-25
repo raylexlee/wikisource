@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        劉禹錫 西塞山懷古
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />王濬樓船下益州，金陵王氣黯然收。<break time="100ms" />千尋鐵鎖沈江底，一片降旛出石頭。<break time="100ms" />人世幾回傷往事，山形依舊枕寒流。<break time="100ms" />今逢四海為家日，故壘蕭蕭蘆荻秋。<break time="100ms" />
+    </voice>
+</speak>

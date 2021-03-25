@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        柳宗元 漁翁
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />漁翁夜傍西巖宿，曉汲清湘燃楚竹。<break time="100ms" />煙銷日出不見人，欸乃一聲山水綠。<break time="100ms" />迴看天際下中流，巖上無心雲相逐。<break time="100ms" />
+    </voice>
+</speak>

@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        許渾 秋日赴闕題潼關驛樓
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />紅葉晚蕭蕭，長亭酒一瓢。<break time="100ms" />殘雲歸太華，疏雨過中條。<break time="100ms" />樹色隨山迥，河聲入海遙。<break time="100ms" />帝鄉明日到，猶自夢漁樵。<break time="100ms" />
+    </voice>
+</speak>

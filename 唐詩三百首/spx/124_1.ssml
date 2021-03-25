@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李白 渡荊門送別
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />渡遠荆門外，來從楚國遊。<break time="100ms" />山隨平野盡，江入大荒流。<break time="100ms" />月下飛天鏡，雲生結海樓。<break time="100ms" />仍怜故鄉水，萬里送行舟。<break time="100ms" />
+    </voice>
+</speak>

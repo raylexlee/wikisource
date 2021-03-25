@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        王維 雜詩
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />雜詩<break time="100ms" />君自故鄉來，應知故鄉事。<break time="100ms" />來日綺窗前，寒梅着花未。<break time="100ms" />
+    </voice>
+</speak>

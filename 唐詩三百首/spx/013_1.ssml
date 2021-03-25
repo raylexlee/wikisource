@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        杜甫 佳人
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />絕代有佳人，幽居在空谷。<break time="100ms" />自良家子，零落依草木。<break time="100ms" />關中昔喪亂，兄弟遭殺戮。<break time="100ms" />官高何足論，不得收骨肉。<break time="100ms" />世情惡衰歇，萬事隨轉燭。<break time="100ms" />夫婿輕薄兒，新人美如玉。<break time="100ms" />合昏尚知時，鴛鴦不獨宿。<break time="100ms" />但見新人笑，那聞舊人哭。<break time="100ms" />在山泉水清，出山泉水濁。<break time="100ms" />侍婢賣珠迴，牽蘿補茅屋。<break time="100ms" />摘花不插髮，采柏動盈掬。<break time="100ms" />天寒翠袖薄，日暮倚修竹。<break time="100ms" />
+    </voice>
+</speak>

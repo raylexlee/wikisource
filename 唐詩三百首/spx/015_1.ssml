@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        杜甫 夢李白
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />浮雲終日行，遊子久不至。<break time="100ms" />三夜頻夢君，情親見君意。<break time="100ms" />告歸常局促，苦道來不易。<break time="100ms" />江湖多風波，舟楫恐失墜。<break time="100ms" />出門搔白首，若負平生志。<break time="100ms" />冠蓋滿京華，斯人獨憔悴。<break time="100ms" />孰云網恢恢，將老身反累。<break time="100ms" />千秋萬歲名，寂寞身後事。<break time="100ms" />
+    </voice>
+</speak>

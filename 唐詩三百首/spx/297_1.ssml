@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        張祜 題金陵渡
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />金陵津渡小山樓，<break time="100ms" />一宿行人自可愁。<break time="100ms" />潮落夜江斜月裡，<break time="100ms" />兩三星火是瓜州。<break time="100ms" />
+    </voice>
+</speak>

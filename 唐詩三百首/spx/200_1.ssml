@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李商隱 籌筆驛
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />猿鳥猶疑畏簡書<break time="100ms" />風雲常為護儲胥<break time="100ms" />徒令上將揮神筆<break time="100ms" />終見降王走傳車<break time="100ms" />管樂有才原不忝<break time="100ms" />關張無命欲何如<break time="100ms" />他年錦里經祠廟<break time="100ms" />梁父吟成恨有餘<break time="100ms" />猿鳥猶疑畏簡書<break time="100ms" />風雲常為護儲胥<break time="100ms" />徒令上將揮神筆<break time="100ms" />終見降王走傳車<break time="100ms" />管樂有才原不忝<break time="100ms" />關張無命欲何如<break time="100ms" />他年錦里經祠廟<break time="100ms" />梁父吟成恨有餘<break time="100ms" />
+    </voice>
+</speak>

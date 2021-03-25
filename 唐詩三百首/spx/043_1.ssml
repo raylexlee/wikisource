@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李白 宣州謝朓樓餞別校書叔雲
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />棄我去者，昨日之日不可留。<break time="100ms" />亂我心者，今日之日多煩憂。<break time="100ms" />長風萬送秋鴈，對此可以酣高樓。<break time="100ms" />蓬萊文章建安骨，中間小謝又清發。<break time="100ms" />俱懷逸興壯思飛，欲上青天攬明月。<break time="100ms" />抽刀斷水水更流，舉杯銷愁愁更愁。<break time="100ms" />人生在世不稱意，明朝散髮弄扁舟。<break time="100ms" />
+    </voice>
+</speak>

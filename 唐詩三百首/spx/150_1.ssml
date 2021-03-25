@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        孟浩然 過故人莊
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />故人具雞黍，邀我至田家。<break time="100ms" />綠樹村邊合，青山郭外斜。<break time="100ms" />開筵面場圃，把酒話桑麻。<break time="100ms" />待到重陽日，還來就菊花。<break time="100ms" />
+    </voice>
+</speak>

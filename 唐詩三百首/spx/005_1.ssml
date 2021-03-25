@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        王維 渭川田家
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />斜陽照墟落，窮巷牛羊歸。<break time="100ms" />野老念牧童，倚杖候荊扉。<break time="100ms" />雉雊麥苗秀，蠶眠桑葉稀。<break time="100ms" />田夫荷鋤至，相見語依依。<break time="100ms" />即此羨閑逸，悵然吟式微。<break time="100ms" />
+    </voice>
+</speak>

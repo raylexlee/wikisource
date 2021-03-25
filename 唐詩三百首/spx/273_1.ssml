@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李白 下江陵
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />朝辭白帝彩雲間，<break time="100ms" />千里江陵一日還。<break time="100ms" />兩岸猿聲啼不住，<break time="100ms" />輕舟已過萬重山。<break time="100ms" />
+    </voice>
+</speak>

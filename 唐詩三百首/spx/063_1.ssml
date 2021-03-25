@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        王昌齡 塞下曲
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />蟬鳴空桑林，八月蕭關道。<break time="100ms" />出塞入塞寒，處處黃蘆草。<break time="100ms" />從來幽幷客，皆共塵沙老。<break time="100ms" />莫學遊俠兒，矜夸紫騮好。<break time="100ms" />
+    </voice>
+</speak>

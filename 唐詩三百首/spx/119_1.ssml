@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        宋之問 題大庾嶺北驛
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />陽月南飛雁，傳聞至此回。<break time="100ms" />我行殊未已，何日復歸來？<break time="100ms" />江靜潮初落，林昏瘴不開。<break time="100ms" />明朝望鄉處，應見隴頭梅。<break time="100ms" />
+    </voice>
+</speak>

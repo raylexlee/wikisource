@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        杜甫 兵車行
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />車轔轔，馬蕭蕭，行人弓箭各在腰。<break time="100ms" />爺娘妻子走相送，塵埃不見咸陽橋。<break time="100ms" />牽衣頓足攔道哭，哭聲直上干雲霄。<break time="100ms" />道旁過者問行人，行人但云點行頻。<break time="100ms" />或從十五北防河，便至四十西營田。<break time="100ms" />去時里正與裹頭，歸來頭白還戍邊。<break time="100ms" />邊庭流血成海水，武皇開邊意未已。<break time="100ms" />君不聞漢家山東二百州，千村萬落生荊杞。<break time="100ms" />縱有健婦把鋤犁，禾生隴畝無東西。<break time="100ms" />況復秦兵耐苦戰，被驅不異犬與雞。<break time="100ms" />長者雖有問，役夫敢申恨？<break time="100ms" />且如今年冬，未休關西卒。<break time="100ms" />縣官急索租，租稅從何出？<break time="100ms" />信知生男惡，反是生女好。<break time="100ms" />生女猶得嫁比鄰，生男埋沒隨百草。<break time="100ms" />君不見青海頭，古來白骨無人收。<break time="100ms" />新鬼煩冤舊鬼哭，天陰雨濕聲啾啾。<break time="100ms" />
+    </voice>
+</speak>

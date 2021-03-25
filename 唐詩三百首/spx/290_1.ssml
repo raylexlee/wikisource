@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        杜牧 赤壁
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />折戟沉沙鐵未銷，自將磨洗認前朝。<break time="100ms" />東風不與周郎便，銅雀春深鎖二喬。<break time="100ms" />↑ 《三國志·周瑜傳》「喬」作「橋」。<break time="100ms" />
+    </voice>
+</speak>

@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        杜甫 蜀相
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />蜀相 唐 杜甫<break time="100ms" />丞相祠堂何處尋<break time="100ms" />錦官城外柏森森<break time="100ms" />映階碧草自春色<break time="100ms" />隔葉黃鸝空好音<break time="100ms" />三顧頻煩天下計<break time="100ms" />兩朝開濟老臣心<break time="100ms" />出師未捷身先死<break time="100ms" />長使英雄淚滿襟<break time="100ms" />
+    </voice>
+</speak>

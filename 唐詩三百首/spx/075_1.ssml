@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李白 玉階怨
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />玉階生白露，夜久侵羅襪。<break time="100ms" />却下水晶簾，玲瓏望秋月。<break time="100ms" />
+    </voice>
+</speak>

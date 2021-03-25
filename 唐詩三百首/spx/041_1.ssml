@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李白 夢遊天姥吟留別
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />-{zh-hant;zh-hans|<break time="100ms" />收聽本文（詳細信息）<break time="100ms" />此錄音根據2015年7月5日的版本、以普通话錄製，不會隨條目修訂而自動改變。（收聽幫助）<break time="100ms" />更多有聲文獻<break time="100ms" />}-<break time="100ms" />海客談瀛洲，煙濤微茫信難求。<break time="100ms" />越人語天姥，雲霞明滅或可覩。<break time="100ms" />天姥連天向天橫，勢拔五嶽掩赤城。<break time="100ms" />天台四萬八千丈，對此欲倒東南傾。<break time="100ms" />我欲因之夢吳越，一夜飛度鏡湖月。<break time="100ms" />湖月照我影，送我至剡溪。<break time="100ms" />謝公宿處今尚在，淥水蕩漾清猨啼。<break time="100ms" />腳著謝公屐，身登青雲梯。<break time="100ms" />半壁見海日，空中聞天雞。<break time="100ms" />千巖萬轉路不定，迷花倚石忽已暝。<break time="100ms" />熊咆龍吟殷巖泉，慄深林兮驚層巔。<break time="100ms" />雲青青兮欲雨，水澹澹兮生煙。<break time="100ms" />列缺霹靂，丘巒崩摧。<break time="100ms" />洞天石扉，訇然中開。<break time="100ms" />青冥浩蕩不見底，日月照耀金銀臺。<break time="100ms" />霓爲衣兮風爲馬，雲之君兮紛紛而來下。<break time="100ms" />虎鼓瑟兮鸞迴車，仙之人兮列如麻。<break time="100ms" />忽魂悸以魄動，怳驚起而長嗟。<break time="100ms" />惟覺時之枕席，失向來之煙霞。<break time="100ms" />世間行樂亦如此，古來萬事東流水。<break time="100ms" />別君去兮何時還？且放白鹿青崖間，須行即騎訪名山。<break time="100ms" />安能摧眉折腰事權貴，使我不得開心顏。<break time="100ms" />
+    </voice>
+</speak>

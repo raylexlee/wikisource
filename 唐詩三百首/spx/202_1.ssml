@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李商隱 春雨
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />悵臥新春白袷衣<break time="100ms" />白門寥落意多違<break time="100ms" />紅樓隔雨相望冷<break time="100ms" />珠箔飄燈獨自歸<break time="100ms" />遠路應悲春晼晚<break time="100ms" />殘宵猶得夢依稀<break time="100ms" />玉璫緘札何由達<break time="100ms" />萬里雲羅一雁飛<break time="100ms" />悵臥新春白袷衣<break time="100ms" />白門寥落意多違<break time="100ms" />紅樓隔雨相望冷<break time="100ms" />珠箔飄燈獨自歸<break time="100ms" />遠路應悲春晼晚<break time="100ms" />殘宵猶得夢依稀<break time="100ms" />玉璫緘札何由達<break time="100ms" />萬里雲羅一雁飛<break time="100ms" />
+    </voice>
+</speak>

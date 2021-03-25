@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李白 清平調
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />雲想衣裳花想容，春風拂檻露華濃。<break time="100ms" />若非羣玉山頭見，會向瑤臺月下逢。<break time="100ms" />
+    </voice>
+</speak>

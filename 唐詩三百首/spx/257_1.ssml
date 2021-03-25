@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        張祜 何滿子
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />故國三千里<break time="100ms" />深宮二十年<break time="100ms" />一聲何滿子<break time="100ms" />雙淚落君前<break time="100ms" />
+    </voice>
+</speak>

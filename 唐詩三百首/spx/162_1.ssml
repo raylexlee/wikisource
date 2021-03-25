@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        崔塗 孤雁
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />幾行歸塞盡<break time="100ms" />片影獨何之<break time="100ms" />暮雨相呼失<break time="100ms" />寒塘欲下遲<break time="100ms" />渚雲低暗渡<break time="100ms" />關月冷相隨<break time="100ms" />未必逢矰繳<break time="100ms" />孤飛自可疑<break time="100ms" />
+    </voice>
+</speak>

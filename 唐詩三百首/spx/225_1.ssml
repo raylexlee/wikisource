@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        崔顥 行經華陰
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />岧嶤太華俯咸京，天外三峰削不成。<break time="100ms" />武帝祠前雲欲散，仙人掌上雨初晴。<break time="100ms" />河山北枕秦關險，驛樹西連漢畤平。<break time="100ms" />借問路傍名利客，無如此處學長生。<break time="100ms" />
+    </voice>
+</speak>

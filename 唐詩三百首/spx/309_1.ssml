@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        劉禹錫 春詞
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />新妝宜面下朱樓，<break time="100ms" />深鎖春光一院愁。<break time="100ms" />行到中庭數花朵，<break time="100ms" />蜻蜓飛上玉搔頭。<break time="100ms" />本作品在全世界都属于公有领域，因为作者逝世已经超过100年，并且于1926年1月1日之前出版。<break time="100ms" />
+    </voice>
+</speak>

@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李白 下終南山過斛斯山人宿置酒
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />暮從碧山下，山月隨人歸。<break time="100ms" />卻顧所來徑，蒼蒼橫翠微。<break time="100ms" />相攜及田家，童稚開荊扉。<break time="100ms" />綠竹入幽徑，青蘿拂行衣。<break time="100ms" />歡言得所憩，美酒聊共揮。<break time="100ms" />長歌吟松風，曲盡河星稀。<break time="100ms" />我醉君復樂，陶然共忘機。<break time="100ms" />
+    </voice>
+</speak>

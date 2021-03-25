@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        白居易 賦得古原草送別
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />離離原上草，一歲一枯榮。<break time="100ms" />野火燒不盡，春風吹又生。<break time="100ms" />遠芳侵古道，晴翠接荒城。<break time="100ms" />又送王孫去，萋萋滿別情。<break time="100ms" />
+    </voice>
+</speak>

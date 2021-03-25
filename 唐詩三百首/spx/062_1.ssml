@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        王昌齡 出塞
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />秦時明月漢時關，萬里長征人未還。<break time="100ms" />但使龍城飛將在，不教胡馬度陰山。<break time="100ms" />汉语普通话朗读 本唐朝作品在全世界都属于公有领域，因为作者逝世已经遠遠超过100年。<break time="100ms" />
+    </voice>
+</speak>

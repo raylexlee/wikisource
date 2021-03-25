@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        祖詠 望薊門
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />燕臺一望客心驚，簫鼓喧喧漢將營。<break time="100ms" />萬里寒光生積雪，三邊曙色動危旌。<break time="100ms" />沙場烽火連胡月，海畔雲山擁薊城。<break time="100ms" />少小雖非投筆吏，論功還欲請長纓。<break time="100ms" />
+    </voice>
+</speak>

@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        崔塗 除夜有懷
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />迢遞三巴路<break time="100ms" />羈危萬里身<break time="100ms" />亂山殘雪夜<break time="100ms" />孤獨異鄉春<break time="100ms" />漸與骨肉遠<break time="100ms" />轉於僮僕親<break time="100ms" />那堪正飄泊<break time="100ms" />明日歲華新<break time="100ms" />
+    </voice>
+</speak>

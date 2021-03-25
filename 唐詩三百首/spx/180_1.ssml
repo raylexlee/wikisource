@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        錢起 谷口書齋寄楊補闕
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />泉壑帶茅茨，雲霞生薜帷。<break time="100ms" />竹憐新雨後，山愛夕陽時。<break time="100ms" />閑鷺棲常早，秋花落更遲。<break time="100ms" />家童掃蘿逕，昨與故人期。<break time="100ms" />
+    </voice>
+</speak>

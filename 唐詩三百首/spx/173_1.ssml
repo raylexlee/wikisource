@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        劉長卿 秋日登吳公臺上寺遠眺
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />古臺搖落後<break time="100ms" />秋日望鄉心<break time="100ms" />野寺人來少<break time="100ms" />雲峰水隔深<break time="100ms" />夕陽依舊壘<break time="100ms" />寒磬滿空林<break time="100ms" />惆悵南朝事<break time="100ms" />長江獨至今<break time="100ms" />
+    </voice>
+</speak>

@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        戴叔倫 江鄉故人偶集客舍
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />天秋月又滿<break time="100ms" />城闕夜千重<break time="100ms" />還作江南會<break time="100ms" />翻疑夢裡逢<break time="100ms" />風枝驚暗鵲<break time="100ms" />露草覆寒蟲<break time="100ms" />羈旅長堪醉<break time="100ms" />相留畏曉鐘<break time="100ms" />
+    </voice>
+</speak>

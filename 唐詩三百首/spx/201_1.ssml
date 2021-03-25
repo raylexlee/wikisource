@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李商隱 無題
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />昨夜星辰昨夜風，<break time="100ms" />畫樓西畔桂堂東。<break time="100ms" />身無綵鳳雙飛翼，<break time="100ms" />心有靈犀一點通。<break time="100ms" />隔座送鉤春酒暖，<break time="100ms" />分曹射覆蠟燈紅。<break time="100ms" />嗟余聽鼓應官去，<break time="100ms" />走馬蘭臺類轉蓬。<break time="100ms" />昨夜星辰昨夜風，畫樓西畔桂堂東。<break time="100ms" />身無綵鳳雙飛翼，心有靈犀一點通。<break time="100ms" />隔座送鉤春酒暖，分曹射覆蠟燈紅。<break time="100ms" />嗟余聽鼓應官去，走馬蘭臺類轉蓬。<break time="100ms" />
+    </voice>
+</speak>

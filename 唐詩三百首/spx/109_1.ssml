@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        王維 酬張少府
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />晚年唯好靜，萬事不關心。<break time="100ms" />自顧無長策，空知返舊林。<break time="100ms" />松風吹解帶，山月照彈琴。<break time="100ms" />君問窮通理，漁歌入浦深。<break time="100ms" />
+    </voice>
+</speak>

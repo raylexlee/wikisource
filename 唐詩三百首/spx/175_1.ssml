@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        劉長卿 餞別王十一南遊
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />望君煙水闊，揮手淚霑巾。<break time="100ms" />飛鳥沒何處，青山空向人。<break time="100ms" />長江一帆遠，落日五湖春。<break time="100ms" />誰見汀洲上，相思愁白蘋。<break time="100ms" />
+    </voice>
+</speak>

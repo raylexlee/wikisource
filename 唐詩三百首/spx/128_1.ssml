@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李商隱 北青蘿
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />殘陽西入崦<break time="100ms" />茅屋訪孤僧<break time="100ms" />落葉人何在<break time="100ms" />寒雲路幾層<break time="100ms" />獨敲初夜磬<break time="100ms" />閑倚一枝藤<break time="100ms" />世界微塵裡<break time="100ms" />吾寧愛與憎<break time="100ms" />殘陽西入崦，茅屋訪孤僧。<break time="100ms" />落葉人何在，寒雲路幾層。<break time="100ms" />獨敲初夜磬，閑倚一枝藤。<break time="100ms" />世界微塵裏，吾寧愛與憎。<break time="100ms" />
+    </voice>
+</speak>

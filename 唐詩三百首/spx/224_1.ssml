@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        崔顥 黃鶴樓
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />昔人已乘黃鶴去，此地空餘黃鶴樓。<break time="100ms" />黃鶴一去不復返，白雲千載空悠悠。<break time="100ms" />晴川歷歷漢陽樹，芳草萋萋鸚鵡洲。<break time="100ms" />日暮鄉關何處是？煙波江上使人愁。<break time="100ms" />
+    </voice>
+</speak>

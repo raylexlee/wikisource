@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        王維 老將行
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />少年十五二十時，步行奪得胡馬騎。<break time="100ms" />射殺山中白額虎，肯數鄴下黃鬚兒。<break time="100ms" />一身轉戰三千里，一劒曾當百萬師。<break time="100ms" />漢兵奮迅如霹靂，虜騎崩騰畏蒺藜。<break time="100ms" />衞青不敗由天幸，李廣無功緣數奇。<break time="100ms" />自從棄置便衰朽，世事磋跎成白首。<break time="100ms" />昔時飛箭無全目，今日垂楊生左肘。<break time="100ms" />路傍時賣故侯瓜，門前學種先生柳。<break time="100ms" />蒼茫古木連窮巷，寥落寒山對虛牖。<break time="100ms" />誓令疏勒出飛泉，不似潁川空使酒。<break time="100ms" />賀蘭山下陣如雲，羽檄交馳日夕聞。<break time="100ms" />節使三河募年少，詔書五道出將軍。<break time="100ms" />試拂鐵衣如雪色，聊持寶劒動星文。<break time="100ms" />願得燕弓射天將，恥令越甲鳴吳軍。<break time="100ms" />莫嫌舊日雲中守，猶堪一戰取功勳。<break time="100ms" />
+    </voice>
+</speak>

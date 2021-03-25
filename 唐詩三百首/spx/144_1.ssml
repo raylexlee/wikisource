@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        杜審言 和晉陵路丞早春遊望
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />独有宦游人<break time="100ms" />偏惊物候新<break time="100ms" />云霞出海曙<break time="100ms" />梅柳渡江春<break time="100ms" />淑气催黄鸟<break time="100ms" />晴光转绿苹<break time="100ms" />忽闻歌古调<break time="100ms" />归思欲沾襟<break time="100ms" />
+    </voice>
+</speak>

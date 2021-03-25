@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        西鄙人 哥舒歌
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />北斗七星高，哥舒夜帶刀。<break time="100ms" />至今窺牧馬，不敢過臨洮。<break time="100ms" />
+    </voice>
+</speak>

@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        杜甫 登樓
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />花近高樓傷客心<break time="100ms" />萬方多難此登臨<break time="100ms" />錦江春色來天地<break time="100ms" />玉壘浮雲變古今<break time="100ms" />北極朝庭終不改<break time="100ms" />西山寇盜莫相侵<break time="100ms" />可憐後主還祠廟<break time="100ms" />日暮聊為梁父吟<break time="100ms" />花近高樓傷客心，萬方多難此登臨。<break time="100ms" />錦江春色來天地，玉壘浮雲變古今。<break time="100ms" />北極朝庭終不改，西山寇盜莫相侵。<break time="100ms" />可憐後主還祠廟，日暮聊為梁父吟。<break time="100ms" />
+    </voice>
+</speak>

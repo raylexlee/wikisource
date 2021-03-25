@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        孟浩然 歲暮歸南山
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />北闕休上書，南山歸敝廬。<break time="100ms" />不才明主棄，多病故人疎。<break time="100ms" />白髮催年老，青陽逼歲除。<break time="100ms" />永懷愁不寐，松月夜窗虛。<break time="100ms" />
+    </voice>
+</speak>

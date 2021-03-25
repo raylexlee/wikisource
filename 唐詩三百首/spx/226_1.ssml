@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        溫庭筠 利洲南渡
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />澹然空水對斜暉，曲島蒼茫接翠微。<break time="100ms" />波上馬嘶看棹去，柳邊人歇待船歸。<break time="100ms" />數叢沙草群鷗散，萬頃江田一鷺飛。<break time="100ms" />誰解乘舟尋范蠡，五湖煙水獨忘機。<break time="100ms" />
+    </voice>
+</speak>

@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        杜荀鶴 春宮怨
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />早被嬋娟誤<break time="100ms" />欲妝臨鏡慵<break time="100ms" />承恩不在貌<break time="100ms" />教妾若為容<break time="100ms" />風暖鳥聲碎<break time="100ms" />日高花影重<break time="100ms" />年年越溪女<break time="100ms" />相憶採芙蓉<break time="100ms" />
+    </voice>
+</speak>

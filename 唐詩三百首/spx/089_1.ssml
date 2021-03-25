@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李頎 古從軍行
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />白日登山望烽火，黃昏飲馬傍交河。<break time="100ms" />行人刁斗風沙暗，公主琵琶幽怨多。<break time="100ms" />野雲萬里無城郭，雨雪紛紛連大漠。<break time="100ms" />胡鴈哀鳴夜夜飛，胡兒眼淚雙雙落。<break time="100ms" />聞道玉門猶被遮，應將性命逐輕車。<break time="100ms" />年年戰骨埋荒外，空見蒲桃入漢家。<break time="100ms" />-{zh-hant;zh-hans|<break time="100ms" />收聽本文（詳細信息）<break time="100ms" />此錄音根據2016年7月13日的版本、以普通话錄製，不會隨條目修訂而自動改變。（收聽幫助）<break time="100ms" />更多有聲文獻<break time="100ms" />}-<break time="100ms" />
+    </voice>
+</speak>

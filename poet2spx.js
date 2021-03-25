@@ -14,6 +14,7 @@ const ssml = (title, body) => `<speak version="1.0" xmlns="http://www.w3.org/200
     ${body}
 </speak>
 `;
+const escapePattern = /[\]\['&!?,()]/g;
 const subst = `<break time="100ms" />`;
 const regex = /\n+/s;
 const Chapters = fs.readFileSync('./coverparameters.txt', {encoding:'utf8', flag:'r'}).replace(/\n+$/, "").split('\n');
@@ -21,7 +22,7 @@ Chapters.forEach(Chapter => {
   let chapter, filename, author_title;
   [chapter, filename, author_title] = Chapter.split(',');
   const author = author_title.split(' ')[0];
-  const rawdata = fs.readFileSync(`./${filename}.txt`, {encoding:'utf8', flag:'r'});
+  const rawdata = fs.readFileSync(`./${filename.replace(/ /g, '_')}.txt`, {encoding:'utf8', flag:'r'});
   const paras = rawdata.split(regex);
   const titleVoice = voiceText(voiceName[2], `${author_title}`);
   let j = 0;

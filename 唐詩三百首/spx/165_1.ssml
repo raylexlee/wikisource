@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        張喬 書邊事
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />調角斷清秋<break time="100ms" />征人倚戍樓<break time="100ms" />春風對青塚<break time="100ms" />白日落梁州<break time="100ms" />大漠無兵阻<break time="100ms" />窮邊有客遊<break time="100ms" />蕃情似此水<break time="100ms" />長願向南流<break time="100ms" />
+    </voice>
+</speak>

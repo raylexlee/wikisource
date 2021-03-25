@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        孟浩然 秦中感秋寄遠上人
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />一丘常欲臥，三徑苦無資。<break time="100ms" />北土非吾願，東林懷我師。<break time="100ms" />黃金然桂盡，壯志逐年衰。<break time="100ms" />日夕涼風至，聞蟬但益悲。<break time="100ms" />↑ 《河嶽英靈集》題作<break time="100ms" />↑ 北土：《河嶽英靈集》作「北上」；《文苑英華》作「北山」<break time="100ms" />↑ 日夕：《文苑英華》作「旦夕」<break time="100ms" />
+    </voice>
+</speak>

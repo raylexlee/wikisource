@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        韋應物 初發揚子寄元大校書
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />悽悽去親愛，泛泛入煙霧。<break time="100ms" />歸棹洛陽人，殘鐘廣陵樹。<break time="100ms" />今朝此爲別，何處還相遇。<break time="100ms" />世事波上舟，沿洄安得住。<break time="100ms" />
+    </voice>
+</speak>

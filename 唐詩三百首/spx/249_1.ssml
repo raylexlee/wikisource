@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李頻 渡漢江
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />嶺外音書絕<break time="100ms" />經冬復歷春<break time="100ms" />近鄉情更怯<break time="100ms" />不敢問來人<break time="100ms" />
+    </voice>
+</speak>

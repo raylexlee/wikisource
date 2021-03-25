@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        岑參 與高適薛據登慈恩寺浮圖
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />塔勢如湧出，孤高聳天宮。<break time="100ms" />登臨出世界，磴道盤虛空。<break time="100ms" />突兀壓神州，崢嶸如鬼工。<break time="100ms" />四角礙白日，七層摩蒼穹。<break time="100ms" />下窺指高鳥，俯聽聞驚風。<break time="100ms" />連山若波濤，奔湊如朝東。<break time="100ms" />青槐夾馳道，宮館何玲瓏。<break time="100ms" />秋色從西來，蒼然滿關中。<break time="100ms" />五陵北原上，萬古青濛濛。<break time="100ms" />淨理了可悟，勝因夙所宗。<break time="100ms" />誓將挂冠去，覺道資無窮。<break time="100ms" />
+    </voice>
+</speak>

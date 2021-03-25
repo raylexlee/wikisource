@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        王維 西施詠
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />豔色天下重，西施寧久微。<break time="100ms" />朝乃越溪女，暮作吳宮妃。<break time="100ms" />賤日豈殊眾，貴來方悟稀。<break time="100ms" />邀人傅香粉，不自著羅衣。<break time="100ms" />君寵益嬌態，君憐無是非。<break time="100ms" />當時浣紗伴，莫得同車歸。<break time="100ms" />持謝鄰家子，效顰安可希？<break time="100ms" />
+    </voice>
+</speak>

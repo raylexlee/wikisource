@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        孟浩然 宿建德江
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />移舟泊煙渚，日暮客愁新。<break time="100ms" />野曠天低樹，江清月近人。<break time="100ms" />
+    </voice>
+</speak>

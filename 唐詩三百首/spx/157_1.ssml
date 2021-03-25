@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        韋應物 賦得暮雨送李冑
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />楚江微雨裡<break time="100ms" />建業暮鐘時<break time="100ms" />漠漠帆來重<break time="100ms" />冥冥鳥去遲<break time="100ms" />海門深不見<break time="100ms" />浦樹遠含滋<break time="100ms" />相送情無限<break time="100ms" />沾襟比散絲<break time="100ms" />
+    </voice>
+</speak>

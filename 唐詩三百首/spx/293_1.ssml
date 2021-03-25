@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        韋莊 金陵圖
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />江雨霏霏江草齊，<break time="100ms" />六朝如夢鳥空啼。<break time="100ms" />無情最是臺城柳，<break time="100ms" />依舊煙籠十里堤。<break time="100ms" />
+    </voice>
+</speak>

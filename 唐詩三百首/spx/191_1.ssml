@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        岑參 奉和中書舍人賈至早朝大明宮
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />雞鳴紫陌曙光寒，鶯囀皇州春色闌。<break time="100ms" />金闕曉鐘開萬戶，玉階仙仗擁千官。<break time="100ms" />花迎劒珮星初落，柳拂旌旗露未乾。<break time="100ms" />獨有鳳皇池上客，陽春一曲和皆難。<break time="100ms" />
+    </voice>
+</speak>

@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        王昌齡 同從弟南齋翫月憶山陰崔少府
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />高臥南齋時，開帷月初吐。<break time="100ms" />清輝澹水木，演漾在窗戶。<break time="100ms" />苒苒幾盈虛，澄澄變今古。<break time="100ms" />美人清江畔，是夜越吟苦。<break time="100ms" />千里其如何，微風吹蘭杜。<break time="100ms" />
+    </voice>
+</speak>

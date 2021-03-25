@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李商隱 涼思
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />客去波平檻<break time="100ms" />蟬休露滿枝<break time="100ms" />永懷當此節<break time="100ms" />倚立自移時<break time="100ms" />北斗兼春遠<break time="100ms" />南陵寓使遲<break time="100ms" />天涯占夢數<break time="100ms" />疑誤有新知<break time="100ms" />客去波平檻<break time="100ms" />蟬休露滿枝<break time="100ms" />永懷當此節<break time="100ms" />倚立自移時<break time="100ms" />北斗兼春遠<break time="100ms" />南陵寓使遲<break time="100ms" />天涯占夢數<break time="100ms" />疑誤有新知<break time="100ms" />
+    </voice>
+</speak>

@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        賀知章 回鄉偶書
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />少小離家老大回，鄉音無改鬢毛衰，<break time="100ms" />兒童相見不相識，笑問客從何處來。<break time="100ms" />
+    </voice>
+</speak>

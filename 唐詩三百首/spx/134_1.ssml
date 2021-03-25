@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        杜甫 別房太尉墓
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />他鄉復行役，駐馬別孤墳。<break time="100ms" />近淚無乾土，低空有斷雲。<break time="100ms" />對棋陪謝傅，把劍覓徐君。<break time="100ms" />惟見林花落，鶯啼送客聞。<break time="100ms" />
+    </voice>
+</speak>

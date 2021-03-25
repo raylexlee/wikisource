@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        杜甫 江南逢李龜年
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />岐王宅裏尋常見，崔九堂前㡬度聞。<break time="100ms" />正是江南好風景，落花時節又逢君。<break time="100ms" />↑ 岐王：範。<break time="100ms" />↑ 原注：殿中監崔滌、中書令湜之弟。<break time="100ms" />
+    </voice>
+</speak>

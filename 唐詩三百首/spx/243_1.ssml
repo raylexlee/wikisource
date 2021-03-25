@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        白居易 問劉十九
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />綠螘新醅酒，<break time="100ms" />紅泥小火爐。<break time="100ms" />晚來天欲雪，<break time="100ms" />能飲一杯無？<break time="100ms" />
+    </voice>
+</speak>

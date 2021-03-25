@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        陳子昂 登幽州臺歌
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />前不見古人，後不見來者。<break time="100ms" />念天地之悠悠，獨愴然而涕下。<break time="100ms" />
+    </voice>
+</speak>

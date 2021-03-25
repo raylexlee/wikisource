@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李商隱 錦瑟
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />錦瑟無端五十絃　一絃一柱思華年<break time="100ms" />莊生曉夢迷蝴蝶　望帝春心託杜鵑<break time="100ms" />滄海月明珠有淚　藍田日暖玉生煙<break time="100ms" />此情可待成追憶　只是當時已惘然<break time="100ms" />
+    </voice>
+</speak>

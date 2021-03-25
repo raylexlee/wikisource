@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        劉長卿 長沙過賈誼宅
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />三年謫宦此棲遲，萬古惟留楚客悲。<break time="100ms" />秋草獨尋人去後，寒林空見日斜時。<break time="100ms" />漢文有道恩猶薄，湘水無情弔豈知。<break time="100ms" />寂寂江山搖落處，憐君何事到天涯。<break time="100ms" />
+    </voice>
+</speak>

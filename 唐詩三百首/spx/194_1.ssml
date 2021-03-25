@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李商隱 無題之一
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />鳳尾香羅薄幾重，<break time="100ms" />碧文圓頂夜深縫。<break time="100ms" />扇裁月魄羞難掩，<break time="100ms" />車走雷聲語未通。<break time="100ms" />曾是寂寥金燼暗，<break time="100ms" />斷無消息石榴紅。<break time="100ms" />斑騅只繫垂楊岸，<break time="100ms" />何處西南待好風。<break time="100ms" />鳳尾香羅薄幾重，碧文圓頂夜深縫。<break time="100ms" />扇裁月魄羞難掩，車走雷聲語未通。<break time="100ms" />曾是寂寥金燼暗，斷無消息石榴紅。<break time="100ms" />斑騅只繫垂楊岸，何處西南待好風。<break time="100ms" />
+    </voice>
+</speak>

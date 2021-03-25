@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        柳中庸 征人怨
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />歲歲金河復玉關，<break time="100ms" />朝朝馬策與刀環。<break time="100ms" />三春白雪歸青塚，<break time="100ms" />萬里黃河繞黑山。<break time="100ms" />
+    </voice>
+</speak>

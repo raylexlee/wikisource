@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        王維 送梓州李使君
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />萬壑樹參天，千山響杜鵑。<break time="100ms" />山中一夜雨，樹杪百重泉。<break time="100ms" />漢女輸橦布，巴人訟芋田。<break time="100ms" />文翁翻教授，不敢倚先賢。<break time="100ms" />
+    </voice>
+</speak>

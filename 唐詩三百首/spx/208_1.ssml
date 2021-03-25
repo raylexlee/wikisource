@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        杜甫 詠懷古跡之五
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />諸葛大名垂宇宙，宗臣遺像肅清高。<break time="100ms" />三分割據紆籌策，萬古雲霄一羽毛。<break time="100ms" />伯仲之間見伊呂，指揮若定失蕭曹。<break time="100ms" />運移漢祚終難復，志決身殲軍務勞。<break time="100ms" />
+    </voice>
+</speak>

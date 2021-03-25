@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        錢起 贈闕下裴舍人
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />二月黃鶯飛上林，春城紫禁曉陰陰。<break time="100ms" />長樂鐘聲花外盡，龍池柳色雨中深。<break time="100ms" />陽和不散窮途恨，霄漢長懷捧日新。<break time="100ms" />獻賦十年猶未遇，羞將白髮對華簪。<break time="100ms" />
+    </voice>
+</speak>

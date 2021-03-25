@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        杜甫 聞官軍收河南河北
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />劍外忽傳收薊北<break time="100ms" />初聞涕淚滿衣裳<break time="100ms" />卻看妻子愁何在<break time="100ms" />漫卷詩書喜欲狂<break time="100ms" />白日放歌須縱酒<break time="100ms" />青春作伴好還鄉<break time="100ms" />即從巴峽穿巫峽<break time="100ms" />便下襄陽向洛陽<break time="100ms" />劍外忽傳收薊北，<break time="100ms" />初聞涕淚滿衣裳。<break time="100ms" />卻看妻子愁何在？<break time="100ms" />漫卷詩書喜欲狂。<break time="100ms" />白日放歌須縱酒，<break time="100ms" />青春作伴好還鄉。<break time="100ms" />即從巴峽穿巫峽，<break time="100ms" />便下襄陽向洛陽。<break time="100ms" />
+    </voice>
+</speak>

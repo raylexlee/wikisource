@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李白 長干行
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />妾髮初覆額，折花門前劇。<break time="100ms" />郎騎竹馬來，繞牀弄青梅。<break time="100ms" />同居長干里，兩小無嫌猜。<break time="100ms" />十四爲君婦，羞顏未嘗開。<break time="100ms" />低頭向暗壁，千喚不一迴。<break time="100ms" />十五始展眉，願同塵與灰。<break time="100ms" />常存抱柱信，豈上望夫臺。<break time="100ms" />十六君遠行，瞿塘灩澦堆。<break time="100ms" />五月不可觸，猿聲天上哀。<break time="100ms" />門前遲行跡，一一生綠苔。<break time="100ms" />苔深不能掃，落葉秋風早。<break time="100ms" />八月胡蝶來，雙飛西園草。<break time="100ms" />感此傷妾心，坐愁紅顏老。<break time="100ms" />早晚下三巴，預將書報家。<break time="100ms" />相迎不道遠，直至長風沙。<break time="100ms" />
+    </voice>
+</speak>

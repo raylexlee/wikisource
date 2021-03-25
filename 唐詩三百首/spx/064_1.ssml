@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        王昌齡 塞下曲
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />飲馬渡秋水，水寒風似刀。<break time="100ms" />平沙日未沒，黯黯見臨洮。<break time="100ms" />昔日長城戰，咸言意氣高。<break time="100ms" />黃塵足今古，白骨亂蓬蒿。<break time="100ms" />
+    </voice>
+</speak>

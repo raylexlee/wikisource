@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        盧綸 塞下曲之四
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />野幕蔽瓊筵<break time="100ms" />羌戎賀勞旋<break time="100ms" />醉和金甲舞<break time="100ms" />雷鼓動山川<break time="100ms" />
+    </voice>
+</speak>

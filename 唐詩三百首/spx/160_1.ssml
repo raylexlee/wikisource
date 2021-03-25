@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        馬戴 楚江懷古
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />露氣寒光集<break time="100ms" />微陽下楚丘<break time="100ms" />猿啼洞庭樹<break time="100ms" />人在木蘭舟<break time="100ms" />廣澤生明月<break time="100ms" />蒼山夾亂流<break time="100ms" />雲中君不見<break time="100ms" />竟夕自悲秋<break time="100ms" />
+    </voice>
+</speak>

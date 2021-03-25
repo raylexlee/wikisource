@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李白 贈孟浩然
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />吾愛孟夫子，風流天下聞。<break time="100ms" />紅顏棄軒冕，白首臥松雲。<break time="100ms" />醉月頻中聖，迷花不事君。<break time="100ms" />高山安可仰，徒此挹清芬。<break time="100ms" />
+    </voice>
+</speak>

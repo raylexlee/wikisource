@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        孟浩然 與諸子登峴山
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />人事有代謝，往來成古今。<break time="100ms" />江山留勝跡，我輩復登臨。<break time="100ms" />水落魚梁淺，天寒夢澤深。<break time="100ms" />羊公碑尚在，讀罷淚沾襟。<break time="100ms" />
+    </voice>
+</speak>

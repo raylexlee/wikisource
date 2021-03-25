@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李白 長相思
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />日色欲盡花含煙，月明如素愁不眠。<break time="100ms" />趙瑟初停鳳凰柱，蜀琴欲奏鴛鴦弦。<break time="100ms" />此曲有意無人傳，願隨春風寄燕然，憶君迢迢隔青天。<break time="100ms" />昔日橫波目，今成流淚泉。<break time="100ms" />不信妾腸斷，歸來看取明鏡前。<break time="100ms" />
+    </voice>
+</speak>

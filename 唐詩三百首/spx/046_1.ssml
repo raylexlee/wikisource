@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李頎 送陳章甫
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />四月南風大麥黃，棗花未落桐陰長。<break time="100ms" />青山朝別暮還見，嘶馬出門思舊鄉。<break time="100ms" />陳侯立身何坦蕩，虬鬚虎眉仍大顙。<break time="100ms" />腹中貯書一萬卷，不肯低頭在草莽。<break time="100ms" />東門酤酒飲我曹，心輕萬事皆鴻毛。<break time="100ms" />醉臥不知白日暮，有時空望孤雲高。<break time="100ms" />長河浪頭連天黑，津口停舟渡不得。<break time="100ms" />鄭國遊人未及家，洛陽行子空歎息。<break time="100ms" />聞道故林相識多，罷官昨日今如何。<break time="100ms" />
+    </voice>
+</speak>

@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        杜甫 詠懷古跡之一
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />支離東北風塵際，漂泊西南天地間。<break time="100ms" />三峽樓臺淹日月，五溪衣服共雲山。<break time="100ms" />羯胡事主終無賴，詞客哀時且未還。<break time="100ms" />庾信平生最蕭瑟，暮年詩賦動江關。<break time="100ms" />
+    </voice>
+</speak>

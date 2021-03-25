@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        崔顥 長干行之一
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />君家何處住？妾住在橫塘。<break time="100ms" />停船暫借問，或恐是同鄉。<break time="100ms" />
+    </voice>
+</speak>

@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        鄭畋 馬嵬坡
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />玄宗回馬楊妃死，<break time="100ms" />雲雨難忘日月新。<break time="100ms" />終是聖明天子事，<break time="100ms" />景陽宮井又何人？<break time="100ms" />
+    </voice>
+</speak>

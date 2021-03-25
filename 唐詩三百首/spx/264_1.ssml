@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        王昌齡 閨怨
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />閨中少婦不曾愁，春日凝妝上翠樓。<break time="100ms" />忽見陌頭楊柳色，悔教夫婿覓封侯。<break time="100ms" />
+    </voice>
+</speak>

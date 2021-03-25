@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        王維 山居秋暝
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />空山新雨後，天氣晚來秋。<break time="100ms" />明月松間照，清泉石上流。<break time="100ms" />竹喧歸浣女，蓮動下漁舟。<break time="100ms" />隨意春芳歇，王孫自可留。<break time="100ms" />
+    </voice>
+</speak>

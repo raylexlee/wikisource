@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        王昌齡 長信怨
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />奉帚平明金殿開，<break time="100ms" />暫將團扇共徘徊。<break time="100ms" />玉顏不及寒鴉色，<break time="100ms" />猶帶昭陽日影來。<break time="100ms" />
+    </voice>
+</speak>

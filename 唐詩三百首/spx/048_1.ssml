@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李頎 聽董大彈胡笳兼寄語弄房給事
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />蔡女昔造胡笳聲，一彈一十有八拍。<break time="100ms" />胡人落淚沾邊草，漢使斷腸對歸客。<break time="100ms" />古戍蒼蒼烽火寒，大荒沈沈飛雪白。<break time="100ms" />先拂商弦後角羽，四郊秋葉驚摵摵。<break time="100ms" />董夫子，通神明，深山竊聽來妖精。<break time="100ms" />言遲更速皆應手，將往復旋如有情。<break time="100ms" />空山百鳥散還合，萬里浮雲陰且晴。<break time="100ms" />嘶酸雛鴈失羣夜，斷絕胡兒戀母聲。<break time="100ms" />川爲淨其波，鳥亦罷其鳴。<break time="100ms" />烏孫部落家鄉遠，邏娑沙塵哀怨生。<break time="100ms" />幽音變調忽飄灑，長風吹林雨墮瓦。<break time="100ms" />迸泉颯颯飛木末，野鹿呦呦走堂下。<break time="100ms" />長安城連東掖垣，鳳凰池對青瑣門。<break time="100ms" />高才脫略名與利，日夕望君抱琴至。<break time="100ms" />
+    </voice>
+</speak>

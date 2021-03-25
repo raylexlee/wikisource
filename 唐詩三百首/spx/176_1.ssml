@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        劉禹錫 蜀先主廟
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />天地英雄氣，千秋尚凜然。<break time="100ms" />勢分三足鼎，業復五銖錢。<break time="100ms" />得相能開國，生兒不象賢。<break time="100ms" />淒涼蜀故妓，來舞魏宮前。<break time="100ms" />
+    </voice>
+</speak>

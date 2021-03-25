@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        杜甫 宿府
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />清秋幕府井梧寒<break time="100ms" />獨宿江城蠟炬殘<break time="100ms" />永夜角聲悲自語<break time="100ms" />中天月色好誰看<break time="100ms" />風塵荏苒音書絕<break time="100ms" />關塞蕭條行陸難<break time="100ms" />已忍伶俜十年事<break time="100ms" />強移棲息一枝安<break time="100ms" />
+    </voice>
+</speak>

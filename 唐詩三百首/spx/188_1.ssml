@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        王維 奉和聖制從蓬萊向興慶閣道中留春雨中春望之作應制
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />渭水自縈秦塞曲，黃山舊繞漢宮斜。<break time="100ms" />鑾輿迥出千門柳，閣道回看上苑花。<break time="100ms" />雲裡帝城雙鳳闕，雨中春樹萬人家。<break time="100ms" />為乘陽氣行時令，不是宸遊翫物華。<break time="100ms" />
+    </voice>
+</speak>

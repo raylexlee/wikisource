@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        裴迪 送崔九
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />歸山深淺去，<break time="100ms" />須盡丘壑美。<break time="100ms" />莫學武陵人，<break time="100ms" />暫遊桃源裡。<break time="100ms" />
+    </voice>
+</speak>

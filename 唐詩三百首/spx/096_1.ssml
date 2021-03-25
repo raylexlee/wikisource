@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        孟郊 烈女操
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />梧桐相待老，鴛鴦會雙死。<break time="100ms" />貞婦貴殉夫，捨生亦如此。<break time="100ms" />波瀾誓不起，妾心古井水。<break time="100ms" />
+    </voice>
+</speak>

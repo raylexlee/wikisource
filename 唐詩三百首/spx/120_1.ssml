@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        岑參 寄左省杜拾遺
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />聯步趨丹陛，分曹限紫微。<break time="100ms" />曉隨天仗入，暮惹御香歸。<break time="100ms" />白髮悲花落，青雲羨鳥飛。<break time="100ms" />聖朝無闕事，自覺諫書稀。<break time="100ms" />
+    </voice>
+</speak>

@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        綦毋潛 春泛若耶溪
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />幽意無斷絕，此去隨所偶。<break time="100ms" />晚風吹行舟，花路入溪口。<break time="100ms" />際夜轉西壑，隔山望南斗。<break time="100ms" />潭煙飛溶溶，林月低向後。<break time="100ms" />生事且彌漫，願爲持竿叟。<break time="100ms" />
+    </voice>
+</speak>

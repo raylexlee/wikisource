@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        岑參 白雪歌送武判官歸京
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />北風卷地白草折，胡天八月即飛雪。<break time="100ms" />忽如一夜春風來，千樹萬樹梨花開。<break time="100ms" />散入珠簾濕羅幕，狐裘不煖錦衾薄。<break time="100ms" />將軍角弓不得控，都護鐵衣冷難著。<break time="100ms" />瀚海闌干百丈冰，愁云慘澹萬里凝。<break time="100ms" />中軍置酒飲歸客，胡琴琵琶與羌笛。<break time="100ms" />紛紛暮雪下轅門，風掣紅旗凍不翻。<break time="100ms" />輪臺東門送君去，去時雪滿天山路。<break time="100ms" />山回路轉不見君，雪上空留馬行處。<break time="100ms" />
+    </voice>
+</speak>

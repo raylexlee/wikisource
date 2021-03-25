@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李益 喜見外弟又言別
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />十年離亂後，長大一相逢。<break time="100ms" />問姓驚初見，稱名憶舊容。<break time="100ms" />別來滄海事，語罷暮天鐘。<break time="100ms" />明日巴陵道，秋山又幾重。<break time="100ms" />
+    </voice>
+</speak>

@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        杜甫 野望
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />西山白雪三奇戍<break time="100ms" />南浦清江萬里橋<break time="100ms" />海內風塵諸弟隔<break time="100ms" />天涯涕淚一身遙<break time="100ms" />唯將遲暮供多病<break time="100ms" />未有涓埃答聖朝<break time="100ms" />跨馬出郊時極目<break time="100ms" />不堪人事日蕭條<break time="100ms" />西山白雪三奇戍，南浦清江萬里橋。<break time="100ms" />海內風塵諸弟隔，天涯涕淚一身遙。<break time="100ms" />唯將遲暮供多病，未有涓埃答聖朝。<break time="100ms" />跨馬出郊時極目，不堪人事日蕭條。<break time="100ms" />
+    </voice>
+</speak>

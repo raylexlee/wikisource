@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        韓翃 同題仙遊觀
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />仙臺初見五城樓<break time="100ms" />風物淒淒宿雨收<break time="100ms" />山色遙連秦樹晚<break time="100ms" />砧聲近報漢宮秋<break time="100ms" />疏松影落空壇靜<break time="100ms" />細草香閑小洞幽<break time="100ms" />何用別尋方外去<break time="100ms" />人間亦自有丹丘<break time="100ms" />
+    </voice>
+</speak>

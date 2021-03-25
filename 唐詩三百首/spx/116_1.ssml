@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        司空曙 喜外弟盧綸見宿
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />靜夜四無隣<break time="100ms" />荒居舊業貧<break time="100ms" />雨中黃葉樹<break time="100ms" />燈下白頭人<break time="100ms" />以我獨沈久<break time="100ms" />愧君相訪頻<break time="100ms" />平生自有分<break time="100ms" />況是蔡家親<break time="100ms" />
+    </voice>
+</speak>

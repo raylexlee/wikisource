@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        岑參 走馬川行奉送封大夫出師西征
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />君不見走馬川行雪海邊<break time="100ms" />平沙莽莽黃入天<break time="100ms" />輪臺九月風夜吼<break time="100ms" />一川碎石大如斗<break time="100ms" />隨風滿地石亂走<break time="100ms" />匈奴草黃馬正肥<break time="100ms" />金山西見煙塵飛<break time="100ms" />漢家大將西出師<break time="100ms" />將軍金甲夜不脫<break time="100ms" />半夜軍行戈相撥<break time="100ms" />風頭如刀面如割<break time="100ms" />馬毛帶雪汗氣蒸<break time="100ms" />五花連錢旋作冰<break time="100ms" />幕中草檄硯水凝<break time="100ms" />虜騎聞之應膽懾<break time="100ms" />料知短兵不敢接<break time="100ms" />軍師西門佇獻捷<break time="100ms" />
+    </voice>
+</speak>

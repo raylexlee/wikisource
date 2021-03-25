@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        崔顥 長干行之二
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />家臨九江水，來去九江側。<break time="100ms" />同是長人，自小不相識。<break time="100ms" />
+    </voice>
+</speak>

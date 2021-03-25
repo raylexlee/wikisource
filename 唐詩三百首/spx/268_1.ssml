@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        白居易 宮詞
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />淚濕羅巾夢不成，<break time="100ms" />夜深前殿按歌聲。<break time="100ms" />紅顏未老恩先斷，<break time="100ms" />斜倚薰籠坐到明。<break time="100ms" />
+    </voice>
+</speak>

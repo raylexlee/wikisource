@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        岑參 輪臺歌奉送封大夫出師西征
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />輪臺城頭夜吹角，輪臺城北旄頭落。<break time="100ms" />羽書昨夜過渠黎，單于已在金山西。<break time="100ms" />戍樓西望煙塵黑，漢兵屯在輪臺北。<break time="100ms" />上將擁旄西出征，平明吹笛大軍行。<break time="100ms" />四邊伐鼓雪海湧，三軍大呼陰山動。<break time="100ms" />虜塞兵氣連雲屯，戰場白骨纏草根。<break time="100ms" />劒河風急雪片闊，沙口石凍馬蹄脫。<break time="100ms" />亞相勤王甘苦辛，誓將報主靜邊塵。<break time="100ms" />古來青史誰不見，今見功名勝古人。<break time="100ms" />
+    </voice>
+</speak>

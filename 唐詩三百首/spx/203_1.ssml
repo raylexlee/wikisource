@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李頎 送魏萬之京
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />朝聞遊子唱離歌，昨夜微霜初渡河。<break time="100ms" />鴻鴈不堪愁裏聽，雲山況是客中過。<break time="100ms" />關城樹色催寒近，御苑砧聲向晚多。<break time="100ms" />莫見長安行樂處，空令歲月易蹉跎。<break time="100ms" />
+    </voice>
+</speak>

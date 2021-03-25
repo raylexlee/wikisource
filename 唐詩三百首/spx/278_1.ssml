@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李商隱 嫦娥
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />雲母屏風燭影深<break time="100ms" />長河漸落曉星沉<break time="100ms" />嫦娥應悔偷靈藥<break time="100ms" />碧海青天夜夜心<break time="100ms" />雲母屏風燭影深<break time="100ms" />長河漸落曉星沉<break time="100ms" />嫦娥應悔偷靈藥<break time="100ms" />碧海青天夜夜心<break time="100ms" />
+    </voice>
+</speak>

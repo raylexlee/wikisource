@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        朱慶餘 近試上張水部
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />洞房昨夜停紅燭，<break time="100ms" />待曉堂前拜舅姑。<break time="100ms" />妝罷低聲問夫婿，<break time="100ms" />畫眉深淺入時無？<break time="100ms" />
+    </voice>
+</speak>

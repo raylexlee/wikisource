@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        杜甫 春望
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />國破山河在，城春草木深。<break time="100ms" />感時花濺淚，恨別鳥驚心。<break time="100ms" />烽火連三月，家書抵萬金。<break time="100ms" />白頭搔更短，渾欲不勝簪。<break time="100ms" />
+    </voice>
+</speak>

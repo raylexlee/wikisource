@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        韋莊 章臺夜思
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />清瑟怨遙夜<break time="100ms" />繞絃風雨哀<break time="100ms" />孤燈聞楚角<break time="100ms" />殘月下章臺<break time="100ms" />芳草已云暮<break time="100ms" />故人殊未來<break time="100ms" />鄉書不可寄<break time="100ms" />秋雁又南迴<break time="100ms" />
+    </voice>
+</speak>

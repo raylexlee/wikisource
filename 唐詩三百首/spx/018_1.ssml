@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        孟浩然 宿業師山房待丁大不至
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />夕陽度西嶺，群壑倏已暝。<break time="100ms" />松月生夜涼，風泉滿清聽。<break time="100ms" />樵人歸欲盡，煙鳥棲初定。<break time="100ms" />之子期宿來，孤琴候蘿徑。<break time="100ms" />
+    </voice>
+</speak>

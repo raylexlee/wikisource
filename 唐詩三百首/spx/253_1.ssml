@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        金昌緒 春怨
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />打起黃鶯兒，莫教枝上啼。<break time="100ms" />啼時驚妾夢，不得到遼西。<break time="100ms" />
+    </voice>
+</speak>

@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        韋應物 長安遇馮著
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />客從東方來，衣上灞陵雨。<break time="100ms" />問客何爲來，采山因買斧。<break time="100ms" />冥冥花正開，颺颺燕新乳。<break time="100ms" />昨別今已春，鬢絲生幾縷。<break time="100ms" />
+    </voice>
+</speak>

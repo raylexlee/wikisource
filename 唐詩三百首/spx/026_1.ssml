@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        韋應物 夕次盱眙縣
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />落帆逗淮鎮，停舫臨孤驛。<break time="100ms" />浩浩風起波，冥冥日沈夕。<break time="100ms" />人歸山郭暗，雁下蘆洲白。<break time="100ms" />獨夜憶秦關，聽鐘未眠客。<break time="100ms" />
+    </voice>
+</speak>

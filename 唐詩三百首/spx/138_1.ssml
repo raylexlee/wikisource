@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        杜甫 天末懷李白
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />涼風起天末，君子意如何？<break time="100ms" />鴻雁幾時到？江湖秋水多。<break time="100ms" />文章憎命達，魑魅喜人過。<break time="100ms" />應共冤魂語，投詩贈汨羅。<break time="100ms" />
+    </voice>
+</speak>

@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        丘為 尋西山隱者不遇
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />絕頂一茅茨，直上三十里。<break time="100ms" />扣關無僮僕，窺室唯案几。<break time="100ms" />若非巾柴車，應是釣秋水。<break time="100ms" />差池不相見，黽勉空仰止。<break time="100ms" />草色新雨中，松聲晚牕裏。<break time="100ms" />及茲契幽絕，自足蕩心耳。<break time="100ms" />雖無賓主意，頗得清淨理。<break time="100ms" />興盡方下山，何必待之子。<break time="100ms" />
+    </voice>
+</speak>

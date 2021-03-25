@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        張旭 桃花谿
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />隱隱飛橋隔野煙，石磯西畔問漁船。<break time="100ms" />桃花盡日隨流水，洞在清谿何處邊。<break time="100ms" />
+    </voice>
+</speak>

@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        杜牧 旅宿
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />旅館無良伴，凝情自悄然。<break time="100ms" />寒燈思舊事，斷雁警愁眠。<break time="100ms" />遠夢歸侵曉，家書到隔年。<break time="100ms" />湘江好煙月，門繫釣魚船。<break time="100ms" />
+    </voice>
+</speak>

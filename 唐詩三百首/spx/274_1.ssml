@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李益 夜上受降城聞笛
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />回樂峰前沙似雪，受降城下月如霜。<break time="100ms" />不知何處吹蘆管，一夜征人盡望鄉。<break time="100ms" />
+    </voice>
+</speak>

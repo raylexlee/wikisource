@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        韋應物 淮上喜會梁川故人 
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />江漢曾爲客，相逢每醉還。<break time="100ms" />浮雲一別後，流水十年間。<break time="100ms" />歡笑情如舊，蕭疎鬢已斑。<break time="100ms" />何因北歸去，淮上對秋山。<break time="100ms" />
+    </voice>
+</speak>

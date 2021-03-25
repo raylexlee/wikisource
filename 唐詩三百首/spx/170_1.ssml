@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        僧皎然 尋陸鴻漸不遇
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />移家雖帶郭，野徑入桑麻。<break time="100ms" />近種籬邊菊，秋來未著花。<break time="100ms" />扣門無犬吠，欲去問西家。<break time="100ms" />報道山中去，歸時每日斜。<break time="100ms" />
+    </voice>
+</speak>

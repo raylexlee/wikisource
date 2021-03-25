@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        孟浩然 夏日南亭懷辛大
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />山光忽西落，池月漸東上。散髮乘夕涼，開軒臥閑敞。<break time="100ms" />荷風送香氣，竹露滴清響。欲取鳴琴彈，恨無知音賞。<break time="100ms" />感此懷故人，中宵勞夢想。<break time="100ms" />
+    </voice>
+</speak>

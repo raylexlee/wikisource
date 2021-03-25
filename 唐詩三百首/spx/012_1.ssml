@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        杜甫 贈衛八處士
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />人生不相見，動如參與商。<break time="100ms" />今夕復何夕，共此燈燭光。<break time="100ms" />少壯能幾時，鬢髮各已蒼。<break time="100ms" />訪舊半為鬼，驚呼熱中腸。<break time="100ms" />焉知二十載，重上君子堂。<break time="100ms" />昔別君未婚，兒女忽成行。<break time="100ms" />怡然敬父執，問我來何方。<break time="100ms" />問答未及已，驅兒羅酒漿。<break time="100ms" />夜雨剪春韭，新炊間黃粱。<break time="100ms" />主稱會面難，一舉累十觴。<break time="100ms" />十觴亦不醉，感子故意長。<break time="100ms" />明日隔山岳，世事兩茫茫。<break time="100ms" />
+    </voice>
+</speak>

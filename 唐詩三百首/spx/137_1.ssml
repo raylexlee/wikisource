@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        杜甫 月夜憶舍弟
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />戍鼓斷人行，邊秋一雁聲。<break time="100ms" />露從今夜白，月是故鄉明。<break time="100ms" />有弟皆分散，無家問死生。<break time="100ms" />寄書長不達，況乃未休兵。<break time="100ms" />
+    </voice>
+</speak>

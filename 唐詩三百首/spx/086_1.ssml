@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李白 子夜吳歌
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />明朝驛使發，一夜絮征袍。<break time="100ms" />素手抽針冷，那堪把剪刀。<break time="100ms" />裁縫寄遠道，幾日到臨洮。<break time="100ms" />
+    </voice>
+</speak>

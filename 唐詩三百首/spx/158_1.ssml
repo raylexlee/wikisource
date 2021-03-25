@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        唐玄宗 經鄒魯祭孔子而歎之
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />夫子何爲者<break time="100ms" />栖栖一代中<break time="100ms" />地猶鄹氏邑<break time="100ms" />宅即魯王宮<break time="100ms" />歎鳳嗟身否<break time="100ms" />傷麟怨道窮<break time="100ms" />今看兩楹奠<break time="100ms" />當與夢時同<break time="100ms" />本作品在全世界都属于公有领域，因为作者逝世已经超过100年，并且于1926年1月1日之前出版。<break time="100ms" />
+    </voice>
+</speak>

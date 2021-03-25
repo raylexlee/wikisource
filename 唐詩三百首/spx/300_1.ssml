@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        張祜 集靈臺之二
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />虢國夫人承主恩，<break time="100ms" />平明騎馬入宮門。<break time="100ms" />卻嫌脂粉污顏色，<break time="100ms" />淡掃蛾眉朝至尊。<break time="100ms" />
+    </voice>
+</speak>

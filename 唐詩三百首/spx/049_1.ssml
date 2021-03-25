@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李頎 聽安萬善吹觱篥歌
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />南山截竹爲觱篥，此樂本自龜茲出。<break time="100ms" />流傳漢地曲轉奇，涼州胡人爲我吹。<break time="100ms" />傍鄰聞者多歎息，遠客思鄉皆淚垂。<break time="100ms" />世人解聽不解賞，長飆風中自來往。<break time="100ms" />枯桑老柏寒颼飀，九雛鳴鳳亂啾啾。<break time="100ms" />龍吟虎嘯一時發，萬籟百泉相與秋。<break time="100ms" />忽然更作漁陽摻，黃雲蕭條白日暗。<break time="100ms" />變調如聞楊柳春，上林繁花照眼新。<break time="100ms" />歲夜高堂列明燭，美酒一杯聲一曲。<break time="100ms" />
+    </voice>
+</speak>

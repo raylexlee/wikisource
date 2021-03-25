@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李白 送孟浩然之廣陵
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />故人西辭黃鶴樓，煙花三月下揚州。<break time="100ms" />孤帆遠影碧山盡，唯見長江天際流。<break time="100ms" />汉语普通话朗读 ↑ 《李太白集分類補註》、《古今事文類聚》均作「空」。御定《全唐詩》作「山」，惟御定《佩文齋詠物詩選》亦作「空」<break time="100ms" />
+    </voice>
+</speak>

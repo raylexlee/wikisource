@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        劉方平 月夜
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />更深月色半人家，<break time="100ms" />北斗闌干南斗斜。<break time="100ms" />今夜偏知春氣暖，<break time="100ms" />蟲聲新透綠窗沙。<break time="100ms" />
+    </voice>
+</speak>

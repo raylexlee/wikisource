@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李商隱 寄令狐郎中
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />嵩雲秦樹久離居<break time="100ms" />雙鯉迢迢一紙書<break time="100ms" />休問梁園舊賓客<break time="100ms" />茂陵秋雨病相如<break time="100ms" />嵩雲秦樹久離居<break time="100ms" />雙鯉迢迢一紙書<break time="100ms" />休問梁園舊賓客<break time="100ms" />茂陵秋雨病相如<break time="100ms" />
+    </voice>
+</speak>

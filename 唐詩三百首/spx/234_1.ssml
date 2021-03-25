@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        薛逢 宮詞
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />十二樓中盡曉妝，望仙樓上望君王。<break time="100ms" />鎖銜金獸連環冷，水滴銅龍晝漏長。<break time="100ms" />雲髻罷梳還對鏡，羅衣欲換更添香。<break time="100ms" />遙窺正殿簾開處，袍袴宮人掃御床。<break time="100ms" />
+    </voice>
+</speak>

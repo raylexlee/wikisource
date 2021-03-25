@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        張九齡 感遇
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />孤鴻海上來，池潢不敢顧。<break time="100ms" />側見雙翠鳥，巢在三珠樹。<break time="100ms" />矯矯珍木巔，得無金丸懼。<break time="100ms" />美服患人指，高明逼神惡。<break time="100ms" />今我遊冥冥，弋者何所慕。<break time="100ms" />
+    </voice>
+</speak>

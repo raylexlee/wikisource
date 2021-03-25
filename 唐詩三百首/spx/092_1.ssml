@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        杜甫 哀江頭
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />少陵野老吞聲哭　春日潛行曲江曲<break time="100ms" />江頭宮殿鎖千門　細柳新蒲爲誰綠<break time="100ms" />憶昔霓旌下南苑　苑中萬物生顏色<break time="100ms" />昭陽殿裏第一人　同輦隨君侍君側<break time="100ms" />輦前才人帶弓箭　白馬嚼齧黃金勒<break time="100ms" />翻身向天仰射雲　一箭正墜雙飛翼<break time="100ms" />明眸皓齒今何在　血污遊魂歸不得<break time="100ms" />清渭東流劒閣深　去住彼此無消息<break time="100ms" />人生有情淚霑臆　江水江花豈終極<break time="100ms" />黃昏胡騎塵滿城　欲往城南忘南北<break time="100ms" />少陵野老吞聲哭，春日潛行曲江曲。<break time="100ms" />江頭宮殿鎖千門，細柳新蒲爲誰綠。<break time="100ms" />憶昔霓旌下南苑，苑中萬物生顏色。<break time="100ms" />昭陽殿裏第一人，同輦隨君侍君側。<break time="100ms" />輦前才人帶弓箭，白馬嚼齧黃金勒。<break time="100ms" />翻身向天仰射雲，一箭正墜雙飛翼。<break time="100ms" />明眸皓齒今何在，血污遊魂歸不得。<break time="100ms" />清渭東流劒閣深，去住彼此無消息。<break time="100ms" />人生有情淚霑臆，江水江花豈終極。<break time="100ms" />黃昏胡騎塵滿城，欲往城南忘南北。<break time="100ms" />
+    </voice>
+</speak>

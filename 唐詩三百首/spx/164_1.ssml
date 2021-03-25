@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        張九齡 望月懷遠
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />海上生明月，天涯共此時。<break time="100ms" />情人怨遙夜，竟夕起相思。<break time="100ms" />滅燭憐光滿，披衣覺露滋。<break time="100ms" />不堪盈手贈，還寢夢佳期。<break time="100ms" />
+    </voice>
+</speak>

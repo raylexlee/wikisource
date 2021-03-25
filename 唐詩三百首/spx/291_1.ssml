@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        杜牧 泊秦淮
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />煙籠寒水月籠沙<break time="100ms" />夜泊秦淮近酒家<break time="100ms" />商女不知亡國恨<break time="100ms" />隔江猶唱後庭花<break time="100ms" />煙籠寒水月籠沙　　夜泊秦淮近酒家<break time="100ms" />商女不知亡國恨　　隔江猶唱後庭花<break time="100ms" />
+    </voice>
+</speak>

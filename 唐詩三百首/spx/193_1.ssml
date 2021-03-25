@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李商隱 無題
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />相見時難別亦難，<break time="100ms" />東風無力百花殘。<break time="100ms" />春蠶到死絲方盡，<break time="100ms" />蠟炬成灰淚始乾。<break time="100ms" />曉鏡但愁雲鬢改，<break time="100ms" />夜吟應覺月光寒。<break time="100ms" />蓬山此去無多路，<break time="100ms" />青鳥殷勤為探看。<break time="100ms" />相見時難別亦難，東風無力百花殘。<break time="100ms" />春蠶到死絲方盡，蠟炬成灰淚始乾。<break time="100ms" />曉鏡但愁雲鬢改，夜吟應覺月光寒。<break time="100ms" />蓬山此去無多路，青鳥殷勤為探看。<break time="100ms" />
+    </voice>
+</speak>

@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        王維 和賈舍人早朝大明宮之作
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />絳幘雞人送曉籌，尚衣方進翠雲裘。<break time="100ms" />九天閶闔開宮殿，萬國衣冠拜冕旒。<break time="100ms" />日色纔臨仙掌動，香煙欲傍衮龍浮。<break time="100ms" />朝罷須裁五色詔，佩聲歸向鳳池頭。<break time="100ms" />
+    </voice>
+</speak>

@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        元稹 遣悲懷之二
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />昔日戲言身後意，今朝皆到眼前來。<break time="100ms" />衣裳已施行看盡，針線猶存未忍開。<break time="100ms" />尚想舊情憐婢僕，也曾因夢送錢財。<break time="100ms" />誠知此恨人人有，貧賤夫妻百事哀。<break time="100ms" />
+    </voice>
+</speak>

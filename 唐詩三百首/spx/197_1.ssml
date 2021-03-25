@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李商隱 隋宮
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />紫泉宮殿鎖煙霞<break time="100ms" />欲取蕪城作帝家<break time="100ms" />玉璽不緣歸日角<break time="100ms" />錦帆應是到天涯<break time="100ms" />於今腐草無螢火<break time="100ms" />終古垂楊有暮鴉<break time="100ms" />地下若逢陳後主<break time="100ms" />豈宜重問後庭花<break time="100ms" />紫泉宮殿鎖煙霞<break time="100ms" />欲取蕪城作帝家<break time="100ms" />玉璽不緣歸日角<break time="100ms" />錦帆應是到天涯<break time="100ms" />於今腐草無螢火<break time="100ms" />終古垂楊有暮鴉<break time="100ms" />地下若逢陳後主<break time="100ms" />豈宜重問後庭花<break time="100ms" />
+    </voice>
+</speak>

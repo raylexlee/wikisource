@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        崔曙 九日登望仙臺呈劉明府
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />漢文皇帝有高臺，此日登臨曙色開。<break time="100ms" />三晉雲山皆北向，二陵風雨自東來。<break time="100ms" />關門令尹誰能識，河上仙翁去不回。<break time="100ms" />且欲近尋彭澤宰，陶然共醉菊花杯。<break time="100ms" />
+    </voice>
+</speak>

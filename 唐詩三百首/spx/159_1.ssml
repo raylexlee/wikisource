@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        馬戴 灞上秋居
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />灞原風雨定，晚見雁行頻。<break time="100ms" />落葉他鄉樹，寒燈獨夜人。<break time="100ms" />空園白露滴，孤壁野僧鄰。<break time="100ms" />寄臥郊扉久，何年致此身？<break time="100ms" />
+    </voice>
+</speak>

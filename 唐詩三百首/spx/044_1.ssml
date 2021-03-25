@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李商隱 韓碑
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />元和天子神武姿<break time="100ms" />彼何人哉軒與羲<break time="100ms" />誓將上雪列聖恥<break time="100ms" />坐法宮中朝四夷<break time="100ms" />淮西有賊五十載<break time="100ms" />封狼生貙貙生羆<break time="100ms" />不據山河據平地<break time="100ms" />長戈利矛日可麾<break time="100ms" />帝得聖相相曰度<break time="100ms" />賊斫不死神扶持<break time="100ms" />腰懸相印作都統<break time="100ms" />陰風慘澹天王旗<break time="100ms" />愬武古通作牙爪<break time="100ms" />儀曹外郎載筆隨<break time="100ms" />行軍司馬智且勇<break time="100ms" />十四萬衆猶虎貔<break time="100ms" />入蔡縛賊獻太廟<break time="100ms" />功無與讓恩不訾<break time="100ms" />帝曰汝度功第一<break time="100ms" />汝從事愈宜爲辭<break time="100ms" />愈拜稽首蹈且舞<break time="100ms" />金石刻畫臣能爲<break time="100ms" />古者世稱大手筆<break time="100ms" />此事不繫于職司<break time="100ms" />當仁自古有不讓<break time="100ms" />言訖屢頷天子頤<break time="100ms" />公退齋戒坐小閣<break time="100ms" />濡染大筆何淋漓<break time="100ms" />點竄堯典舜典字<break time="100ms" />塗改清廟生民詩<break time="100ms" />文成破體書在紙<break time="100ms" />清晨再拜鋪丹墀<break time="100ms" />表曰臣愈昧死上<break time="100ms" />詠神聖功書之碑<break time="100ms" />碑高三丈字如斗<break time="100ms" />負以靈鼇蟠以螭<break time="100ms" />句奇語重喻者少<break time="100ms" />讒之天子言其私<break time="100ms" />長繩百尺拽碑倒<break time="100ms" />麤沙大石相磨治<break time="100ms" />公之斯文若元氣<break time="100ms" />先時已入人肝脾<break time="100ms" />湯盤孔鼎有述作<break time="100ms" />今無其器存其辭<break time="100ms" />嗚呼聖皇及聖相<break time="100ms" />相與烜赫流淳熙<break time="100ms" />公之斯文不示後<break time="100ms" />曷與三五相攀追<break time="100ms" />願書萬本誦萬遍<break time="100ms" />口角流沫右手胝<break time="100ms" />傳之七十有三代<break time="100ms" />以爲封禪玉檢明堂基<break time="100ms" />
+    </voice>
+</speak>

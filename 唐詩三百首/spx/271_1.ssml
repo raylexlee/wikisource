@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        岑參 逢入京使
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />故園東望路漫漫，雙袖龍鍾淚不乾。<break time="100ms" />馬上相逢無紙筆，憑君傳語報平安。<break time="100ms" />
+    </voice>
+</speak>

@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        杜甫 哀王孫
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />長安城頭頭白鳥，夜飛延秋門上呼。<break time="100ms" />又向人家啄大屋，屋底達官走避胡。<break time="100ms" />金鞭斷折九馬死，骨肉不待同馳驅。<break time="100ms" />腰下寶玦青珊瑚，可憐王孫泣路隅。<break time="100ms" />問之不肯道姓名，但道困苦乞為奴。<break time="100ms" />已經百日竄荊棘，身上無有完肌膚。<break time="100ms" />高帝子孫盡隆準，龍種自與常人殊。<break time="100ms" />豺狼在邑龍在野，王孫善保千金軀。<break time="100ms" />不敢長語臨交衢，且為王孫立斯須。<break time="100ms" />昨夜東風吹血腥，東來橐駝滿舊都。<break time="100ms" />朔方健兒好身手，昔何勇銳今何愚。<break time="100ms" />竊聞天子已傳位，聖德北服南單于。<break time="100ms" />花門剺面請雪恥，慎勿出口他人狙。<break time="100ms" />哀哉王孫慎勿疏，五陵佳氣無時無。<break time="100ms" />
+    </voice>
+</speak>

@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        王維 贈郭給事
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />洞門高閣靄餘輝，桃李陰陰柳絮飛。<break time="100ms" />禁裡疏鐘官舍晚，省中啼鳥吏人稀。<break time="100ms" />晨搖玉珮趨金殿，夕奉天書拜瑣闈。<break time="100ms" />強欲從君無那老，將因臥病解朝衣。<break time="100ms" />
+    </voice>
+</speak>

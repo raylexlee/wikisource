@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        盧綸 送李端
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />故關衰草遍<break time="100ms" />離別正堪悲<break time="100ms" />路出寒雲外<break time="100ms" />人歸暮雪時<break time="100ms" />少孤為客早<break time="100ms" />多難識君遲<break time="100ms" />掩淚空相向<break time="100ms" />風塵何處期<break time="100ms" />
+    </voice>
+</speak>

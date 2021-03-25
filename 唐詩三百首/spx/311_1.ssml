@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        韓翃 寒食
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />春城無處不飛花，寒食東風御柳斜。<break time="100ms" />日暮漢宮傳蠟燭，輕煙散入五侯家。<break time="100ms" />
+    </voice>
+</speak>

@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        劉長卿 尋南溪常道士
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />一路經行處<break time="100ms" />莓苔見履痕<break time="100ms" />白雲依靜渚<break time="100ms" />春草閉閑門<break time="100ms" />過雨看松色<break time="100ms" />隨山到水源<break time="100ms" />溪花與禪意<break time="100ms" />相對亦忘言<break time="100ms" />
+    </voice>
+</speak>

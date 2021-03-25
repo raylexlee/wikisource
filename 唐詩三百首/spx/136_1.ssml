@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        杜甫 至德二載甫自京金光門出 間道歸鳳翔 乾元初從左拾遺移華州掾 與親故別 因出此門 有悲往事
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />此道昔歸順<break time="100ms" />西郊胡正繁<break time="100ms" />至今猶破膽<break time="100ms" />應有未招魂<break time="100ms" />近侍歸京邑<break time="100ms" />移官豈至尊<break time="100ms" />無才日衰老<break time="100ms" />駐馬望千門<break time="100ms" />
+    </voice>
+</speak>

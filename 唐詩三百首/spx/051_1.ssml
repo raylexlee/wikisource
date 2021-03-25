@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        杜甫 丹青引贈曹霸將軍
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />將軍魏武之子孫<break time="100ms" />於今為庶為青門<break time="100ms" />英雄割據雖已矣<break time="100ms" />文采風流今尚存<break time="100ms" />學書初學衛夫人<break time="100ms" />但恨無過王右軍<break time="100ms" />丹青不知老將至<break time="100ms" />富貴於我如浮雲<break time="100ms" />開元之中常引見<break time="100ms" />承恩數上南熏殿<break time="100ms" />凌煙功臣少顏色<break time="100ms" />將軍下筆開生面<break time="100ms" />良相頭上進賢冠<break time="100ms" />猛將腰間大羽箭<break time="100ms" />褒公鄂公毛髮動<break time="100ms" />英姿颯爽猶酣戰<break time="100ms" />先帝天馬玉花驄<break time="100ms" />畫工如山貌不同<break time="100ms" />是日牽來赤墀下<break time="100ms" />迥立閶闔生長風<break time="100ms" />詔謂將軍拂絹素<break time="100ms" />意匠慘淡經營中<break time="100ms" />斯須九重真龍出<break time="100ms" />一洗萬古凡馬空<break time="100ms" />玉花卻在御榻上<break time="100ms" />榻上庭前屹相向<break time="100ms" />至尊含笑催賜金<break time="100ms" />圉人太僕皆惆悵<break time="100ms" />弟子韓幹早入室<break time="100ms" />亦能畫馬窮殊相<break time="100ms" />幹惟畫肉不畫骨<break time="100ms" />忍使驊騮氣凋喪<break time="100ms" />將軍畫善蓋有神<break time="100ms" />必逢佳士亦寫真<break time="100ms" />即今漂泊干戈際<break time="100ms" />屢貌尋常行路人<break time="100ms" />塗窮反遭俗眼白<break time="100ms" />世上未有如公貧<break time="100ms" />但看古來盛名下<break time="100ms" />終日坎壈纏其身<break time="100ms" />
+    </voice>
+</speak>

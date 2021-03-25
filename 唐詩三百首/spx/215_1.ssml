@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        杜甫 客至
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />舍南舍北皆春水，<break time="100ms" />但見群鷗日日來。<break time="100ms" />花徑不曾緣客掃，<break time="100ms" />蓬門今始為君開。<break time="100ms" />盤飧市遠無兼味，<break time="100ms" />樽酒家貧只舊醅。<break time="100ms" />肯與鄰翁相對飲，<break time="100ms" />隔籬呼取盡餘杯。<break time="100ms" />
+    </voice>
+</speak>

@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        許渾 早秋
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />遙夜泛清瑟，西風生翠蘿。<break time="100ms" />殘螢棲玉露，早雁拂金河。<break time="100ms" />高樹曉還密，遠山晴更多。<break time="100ms" />淮南一葉下，自覺洞庭波。<break time="100ms" />
+    </voice>
+</speak>

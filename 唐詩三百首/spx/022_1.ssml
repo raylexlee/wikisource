@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        韋應物 郡齋雨中與諸文士燕集
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />兵衛森畫戟，燕寢凝清香。<break time="100ms" />海上風雨至，逍遙池閣涼。<break time="100ms" />煩疴近消散，嘉賓復滿堂。<break time="100ms" />自慙居處崇，未覩斯民康。<break time="100ms" />理會是非遣，性達形迹忘。<break time="100ms" />鮮肥屬時禁，蔬果幸見嘗。<break time="100ms" />俯飲一杯酒，仰聆金玉章。<break time="100ms" />神歡體自輕，意欲凌風翔。<break time="100ms" />吳中盛文史，羣彥今汪洋。<break time="100ms" />方知大藩地，豈曰財賦疆。<break time="100ms" />
+    </voice>
+</speak>

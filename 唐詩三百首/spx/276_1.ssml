@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李商隱 隋宮
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />乘興南遊不戒嚴<break time="100ms" />九重誰省諫書函<break time="100ms" />春風舉國裁宮錦<break time="100ms" />半作障泥半作帆<break time="100ms" />乘興南遊不戒嚴<break time="100ms" />九重誰省諫書函<break time="100ms" />春風舉國裁宮錦<break time="100ms" />半作障泥半作帆<break time="100ms" />
+    </voice>
+</speak>

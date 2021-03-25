@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        杜秋娘 金縷衣
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />勸君莫惜金縷衣，<break time="100ms" />勸君惜取少年時。<break time="100ms" />花開堪折直須折，<break time="100ms" />莫待無花空折枝。<break time="100ms" />
+    </voice>
+</speak>

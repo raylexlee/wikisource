@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        秦韜玉 貧女
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />蓬門未識綺羅香，擬託良媒益自傷。<break time="100ms" />誰愛風流高格調，共憐時世儉梳妝。<break time="100ms" />敢將十指誇偏巧，不把雙眉鬬畫長。<break time="100ms" />苦恨年年壓金線，爲他人作嫁衣裳。<break time="100ms" />
+    </voice>
+</speak>

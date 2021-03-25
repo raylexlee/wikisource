@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        溫庭筠 蘇武廟
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />蘇武魂銷漢使前，古祠高樹兩茫然。<break time="100ms" />雲邊雁斷胡天月，隴上羊歸塞草煙。<break time="100ms" />回日樓臺非甲帳，去時冠劍是丁年。<break time="100ms" />茂陵不見封侯印，空向秋波哭逝川。<break time="100ms" />
+    </voice>
+</speak>

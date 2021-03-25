@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        顧況 宮詞
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />玉樓天半起笙歌，風送宮嬪笑語和。<break time="100ms" />月殿影開聞夜漏，水晶簾卷近銀河。<break time="100ms" />
+    </voice>
+</speak>

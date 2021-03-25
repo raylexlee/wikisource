@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        杜甫 登高
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />風急天高猿嘯哀<break time="100ms" />渚清沙白鳥飛回<break time="100ms" />無邊落木蕭蕭下<break time="100ms" />不盡長江滾滾來<break time="100ms" />萬里悲秋常作客<break time="100ms" />百年多病獨登臺<break time="100ms" />艱難苦恨繁霜鬢<break time="100ms" />潦倒新停濁酒杯<break time="100ms" />風急天高猿嘯哀<break time="100ms" />渚清沙白鳥飛回<break time="100ms" />無邊落木蕭蕭下<break time="100ms" />不盡長江滾滾來<break time="100ms" />萬里悲秋常作客<break time="100ms" />百年多病獨登臺<break time="100ms" />艱難苦恨繁霜鬢<break time="100ms" />潦倒新停濁酒杯<break time="100ms" />網友朗讀 本唐朝作品在全世界都属于公有领域，因为作者逝世已经遠遠超过100年。<break time="100ms" />
+    </voice>
+</speak>

@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李白 月下獨酌
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />花間一壺酒，獨酌無相親。<break time="100ms" />舉杯邀明月，對影成三人。<break time="100ms" />月既不解飲，影徒隨我身。<break time="100ms" />暫伴月將影，行樂須及春。<break time="100ms" />我歌月徘徊，我舞影零亂。<break time="100ms" />醒時同交歡，醉後各分散。<break time="100ms" />永結無情遊，相期邈雲漢。<break time="100ms" />汉语普通话朗读 本唐朝作品在全世界都属于公有领域，因为作者逝世已经遠遠超过100年。<break time="100ms" />
+    </voice>
+</speak>

@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        杜甫 古柏行
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />孔明廟前有老柏，柯如青銅根如石。<break time="100ms" />霜皮溜雨四十圍，黛色參天二千尺。<break time="100ms" />雲來氣接巫峽長，月出寒通雪山白。<break time="100ms" />君臣已與時際會，樹木猶為人愛惜。<break time="100ms" />憶昨路繞錦亭東，先主武侯同閟宮。<break time="100ms" />崔嵬枝幹郊原古，窈窕丹青戶牖空。<break time="100ms" />落落盤據雖得地，冥冥孤高多烈風。<break time="100ms" />扶持自是神明力，正直原因造化功。<break time="100ms" />大廈如傾要梁棟，萬牛迴首邱山重。<break time="100ms" />不露文章世已驚，未辭剪伐誰能送。<break time="100ms" />苦心豈免容螻蟻，香葉終經宿鸞鳳。<break time="100ms" />志士幽人莫怨嗟，古來材大難為用。<break time="100ms" />
+    </voice>
+</speak>

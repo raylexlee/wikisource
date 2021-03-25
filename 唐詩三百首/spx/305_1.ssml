@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        溫庭筠 瑤瑟怨
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />冰簟銀牀夢不成，碧天如水夜雲輕。<break time="100ms" />雁聲遠過瀟湘去，十二樓中月自明。<break time="100ms" />
+    </voice>
+</speak>

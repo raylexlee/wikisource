@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        劉長卿 送李中丞歸漢陽別業
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />流落征南將，曾驅十萬師。<break time="100ms" />罷歸無舊業，老去戀明時。<break time="100ms" />獨立三邊靜，輕生一劍知。<break time="100ms" />茫茫江漢上，日暮復何之？<break time="100ms" />
+    </voice>
+</speak>

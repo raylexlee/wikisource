@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        王維 送別
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />山中相送罷，日暮掩柴扉。<break time="100ms" />春草明年綠，王孫歸不歸。<break time="100ms" />
+    </voice>
+</speak>

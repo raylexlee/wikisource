@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李商隱 無題之一
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />來是空言去絕蹤，<break time="100ms" />月斜樓上五更鐘。<break time="100ms" />夢為遠別啼難喚，<break time="100ms" />書被催成墨未濃。<break time="100ms" />蠟照半籠金翡翠，<break time="100ms" />麝熏微度繡芙蓉。<break time="100ms" />劉郎已恨蓬山遠，<break time="100ms" />更隔蓬山一萬重！<break time="100ms" />來是空言去絕蹤，月斜樓上五更鐘。<break time="100ms" />夢為遠別啼難喚，書被催成墨未濃。<break time="100ms" />蠟照半籠金翡翠，麝熏微度繡芙蓉。<break time="100ms" />劉郎已恨蓬山遠，更隔蓬山一萬重！<break time="100ms" />
+    </voice>
+</speak>

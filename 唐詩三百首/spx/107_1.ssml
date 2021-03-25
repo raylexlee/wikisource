@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        王維 終南別業
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />中歲頗好道，晚家南山陲。<break time="100ms" />興來每獨往，勝事空自知。<break time="100ms" />行到水窮處，坐看雲起時。<break time="100ms" />偶然值林叟，談笑無還期。<break time="100ms" />
+    </voice>
+</speak>

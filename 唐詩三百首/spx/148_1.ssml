@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        孟浩然 早寒有懷
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />木落雁南渡，北風江上寒。<break time="100ms" />我家襄水曲，遙隔楚雲端。<break time="100ms" />鄉淚客中盡，孤帆天際看。<break time="100ms" />迷津欲有問，平海夕漫漫。<break time="100ms" />
+    </voice>
+</speak>

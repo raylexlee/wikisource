@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李白 廬山謠寄盧侍禦虛舟
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />我本楚狂人，鳳歌笑孔丘。<break time="100ms" />手持綠玉杖，朝別黃鶴樓。<break time="100ms" />五嶽尋仙不辭遠，一生好入名山遊。<break time="100ms" />廬山秀出南斗傍，屏風九疊雲錦張，影落明湖青黛光。<break time="100ms" />金闕前開二峰長，銀河倒挂三石梁。<break time="100ms" />香爐瀑布遙相望，迴厓沓嶂凌蒼蒼。<break time="100ms" />翠影紅霞映朝日，鳥飛不到吳天長。<break time="100ms" />登高壯觀天地間，大江茫茫去不還。<break time="100ms" />黃雲萬里動風色，白波九道流雪山。<break time="100ms" />好爲廬山謠，興因廬山發。<break time="100ms" />閑窺石鏡清我心，謝公行處蒼苔沒。<break time="100ms" />早服還丹無世情，琴心三疊道初成。<break time="100ms" />遙見仙人綵雲裏，手把芙蓉朝玉京。<break time="100ms" />先期汗漫九垓上，願接盧敖遊太清。<break time="100ms" />
+    </voice>
+</speak>

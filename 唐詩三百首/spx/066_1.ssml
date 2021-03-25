@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        王維 渭城曲
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />渭城朝雨浥輕塵，客舍青青柳色新。<break time="100ms" />勸君更盡一杯酒，西出陽關無故人。<break time="100ms" />
+    </voice>
+</speak>

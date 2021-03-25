@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        賈島 尋隱者不遇
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />松下問童子，言師採藥去。<break time="100ms" />只在此山中，雲深不知處。<break time="100ms" />
+    </voice>
+</speak>

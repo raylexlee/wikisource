@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李商隱 落花
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />高閣客竟去　小園花亂飛<break time="100ms" />參差連曲陌　迢遞送斜暉<break time="100ms" />腸斷未忍掃　眼穿仍欲歸<break time="100ms" />芳心向春盡　所得是沾衣<break time="100ms" />
+    </voice>
+</speak>

@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        王維 送別
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />下馬飲君酒，問君何所之。<break time="100ms" />君言不得意，歸臥南山陲。<break time="100ms" />但去莫復問，白雲無盡時。<break time="100ms" />
+    </voice>
+</speak>

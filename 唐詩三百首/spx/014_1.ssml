@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        杜甫 夢李白
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />死別已吞聲，生別常惻惻。<break time="100ms" />江南瘴癘地，逐客無消息。<break time="100ms" />故人入我夢，明我長相憶。<break time="100ms" />恐非平生魂，路遠不可測。<break time="100ms" />魂來楓葉青，魂返關塞黑。<break time="100ms" />君今在羅網，何以有羽翼。<break time="100ms" />落月滿屋梁，猶疑照顏色。<break time="100ms" />水深波浪闊，無使蛟龍得。<break time="100ms" />
+    </voice>
+</speak>

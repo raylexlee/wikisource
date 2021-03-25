@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李商隱 瑤池
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />瑤池阿母綺窗開<break time="100ms" />黃竹歌聲動地哀<break time="100ms" />八駿日行三萬里<break time="100ms" />穆王何事不重來<break time="100ms" />
+    </voice>
+</speak>

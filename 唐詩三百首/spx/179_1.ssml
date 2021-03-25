@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        錢起 送僧歸日本
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />上國隨緣住，來途若夢行。<break time="100ms" />浮天滄海遠，去世法舟輕。<break time="100ms" />水月通禪觀，魚龍聽梵聲。<break time="100ms" />惟憐一燈影，萬里眼中明。<break time="100ms" />
+    </voice>
+</speak>

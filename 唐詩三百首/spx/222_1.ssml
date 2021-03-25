@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        高適 送李少府貶峽中王少府貶長沙
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />嗟君此別意何如，駐馬銜桮問謫居。<break time="100ms" />巫峽啼猿數行淚，衡陽歸雁幾封書。<break time="100ms" />青楓江上秋天遠，白帝城邊古木疎。<break time="100ms" />聖代即今多雨露，暫時分手莫躊躇。<break time="100ms" />
+    </voice>
+</speak>

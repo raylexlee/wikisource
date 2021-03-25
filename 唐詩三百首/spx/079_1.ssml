@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        李白 行路難
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />大道如青天，我獨不得出。<break time="100ms" />羞逐長安社中兒，赤雞白狗賭梨栗。<break time="100ms" />彈劍作歌奏苦聲，曳裾王門不稱情。<break time="100ms" />淮陰市井笑韓信，漢朝公卿忌賈生。<break time="100ms" />君不見昔時燕家重郭隗，擁篲折節無嫌猜。<break time="100ms" />劇辛樂毅感恩分，輸肝剖膽效英才。<break time="100ms" />昭王白骨縈爛草，誰人更掃黃金臺。<break time="100ms" />行路難，歸去來。<break time="100ms" />
+    </voice>
+</speak>

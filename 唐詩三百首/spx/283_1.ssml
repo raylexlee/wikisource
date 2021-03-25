@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        杜牧 贈別
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />娉娉褭褭十三餘，<break time="100ms" />荳蔻梢頭二月初。<break time="100ms" />春風十里揚州路，<break time="100ms" />卷上珠簾總不如。<break time="100ms" />
+    </voice>
+</speak>

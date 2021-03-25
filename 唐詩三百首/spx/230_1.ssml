@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        劉長卿 自夏口至鸚鵡洲望岳陽寄元中丞
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />汀洲無浪復無煙，楚客相思益渺然。<break time="100ms" />漢口夕陽斜渡鳥，洞庭秋水遠連天。<break time="100ms" />孤城背嶺寒吹角，獨樹臨江夜泊船。<break time="100ms" />賈誼上書憂漢室，長沙謫去古今憐。<break time="100ms" />
+    </voice>
+</speak>

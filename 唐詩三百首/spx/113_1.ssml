@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        王維 歸嵩山作
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />清川帶長薄，車馬去閑閑。<break time="100ms" />流水如有意，暮禽相與還。<break time="100ms" />荒城臨古渡，落日滿秋山。<break time="100ms" />迢遞嵩高下，歸來且閉關。<break time="100ms" />
+    </voice>
+</speak>

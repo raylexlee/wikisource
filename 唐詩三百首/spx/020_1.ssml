@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        柳宗元 晨詣超師院讀禪經
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />汲井嗽寒齒，清心拂塵服。<break time="100ms" />閒持貝葉書，步出東齋讀。<break time="100ms" />真源了無取，妄跡世所逐。<break time="100ms" />遺言冀可冥，繕性何由熟？<break time="100ms" />道人庭宇靜，苔色連深竹。<break time="100ms" />日出霧露餘，青松如膏沐。<break time="100ms" />澹然離言說，悟悅心自足。<break time="100ms" />
+    </voice>
+</speak>

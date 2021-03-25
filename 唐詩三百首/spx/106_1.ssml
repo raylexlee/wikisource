@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        王維 漢江臨眺
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />楚塞三湘接，荊門九派通。<break time="100ms" />江流天地外，山色有無中。<break time="100ms" />郡邑浮前浦，波瀾動遠空。<break time="100ms" />襄陽好風日，留醉與山翁 。<break time="100ms" />
+    </voice>
+</speak>

@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="zh-HK">
+    <voice name="zh-HK-HiuGaaiNeural">
+        王維 送綦毋潛落第還鄉
+    </voice>
+    <voice name="zh-HK-WanLungNeural">
+        <break time="100ms" /><break time="100ms" />聖代無隱者，英靈盡來歸。<break time="100ms" />遂令東山客，不得顧采薇。<break time="100ms" />既至君門遠，孰吾道非。<break time="100ms" />江淮度寒食，京洛縫春衣。<break time="100ms" />置酒臨長道，同心與我違。<break time="100ms" />行當浮桂櫂，未幾拂荊扉。<break time="100ms" />遠樹帶行客，孤村當落暉。<break time="100ms" />吾謀適不用，勿謂知音稀。<break time="100ms" />
+    </voice>
+</speak>
